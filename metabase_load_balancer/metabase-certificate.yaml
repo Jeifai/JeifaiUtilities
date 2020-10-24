@@ -1,0 +1,8 @@
+# kubectl apply -f metabase-certificate.yaml
+apiVersion: networking.gke.io/v1beta2
+kind: ManagedCertificate
+metadata:
+  name: metabase-certificate-five
+spec:
+  domains:
+    - metabase.jeifai.com

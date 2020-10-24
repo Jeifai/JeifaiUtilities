@@ -1,0 +1,14 @@
+# kubectl apply -f metabase-ingress.yaml
+
+apiVersion: networking.k8s.io/v1beta1
+kind: Ingress
+metadata:
+  name: metabase-ingress-five
+  namespace: metabase
+  annotations:
+    kubernetes.io/ingress.global-static-ip-name: metabase-static-address
+    networking.gke.io/managed-certificates: metabase-certificate-five
+spec:
+  backend:
+    serviceName: metabase-service
+    servicePort: 80
