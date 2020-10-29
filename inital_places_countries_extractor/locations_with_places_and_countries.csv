@@ -1,7 +1,7 @@
 ,location,count,places,countries
 0,"Redmond, Washington, United States",3985,Redmond|Washington|United States,|US
 1,Berlin,2939,Berlin,DE
-2,"Frankfurt (Main), Deutschland",1552,Frankfurt Main|Deutschland,
+2,"Frankfurt (Main), Deutschland",1552,Frankfurt Main|Deutschland,|DE
 3,Munich,1385,Munich,DE
 4,"US, WA, Seattle",1355,US|WA|Seattle,|US
 5,"Fremont, California",1168,Fremont|California,US
@@ -9,1002 +9,1002 @@
 7,DE/Munich,1037,DE|Munich,|DE
 8,"Berlin, Deutschland",1032,Berlin|Deutschland,|DE
 9,IN IN,1019,,
-10,"DE, BY, Munich",1011,,
-11,"Berlin, Germany",818,,
-12,"DE, BE, Berlin",735,,
-13,Hamburg,727,,
-14,München,683,,
-15,", Shanghai",656,,
-16,"Menlo Park, CA",565,,
-17,"Bellevue, Washington, United States",557,,
-18,Stuttgart,551,,
-19,"Hyderabad, Telangana, India",547,,
-20,"München, Deutschland",529,,
-21,"Bangalore, Karnataka, India",495,,
-22,London,492,,
-23,"Palo Alto, California",491,,
-24,"Munich, Germany",473,,
-25,"Dublin, Ireland",445,,
-26,"Mountain View, CA, USA",429,,
-27,"Sunnyvale, CA, USA",426,,
-28,"San Jose, California, US",416,,
-29,"Berlin,de",409,,
-30,"Hamburg, Deutschland",388,,
-31,"Grünheide (Gigafactory Berlin), Brandenburg",351,,
-32,Beijing,349,,
-33,"Other, Other, United States",344,,
-34,"San Francisco,us",343,,
-35,"Erlangen,Germany",338mis,,
-36,Villach,266,,
-37,"Stuttgart, Deutschland",264,,
-38,"Leipzig, Deutschland",263,,
-39,San Francisco,261,,
-40,"Nürnberg, Deutschland",260,,
-41,"London, UK",258,,
-42,"Penzberg,Deutschland",254,,
-43,"Suzhou, Jiangsu, China",245,,
-44,"Hannover, Deutschland",237,,
-45,New York,237,,
-46,"Basel,Switzerland",233,,
-47,"Barcelona, Spain",231,,
-48,"Shanghai,中国",230,,
-49,"Tokyo, Japan",227,,
-50,"South San Francisco,United States of America",226,,
-51,"Tokyo, Tokyo-to, Japan",220,,
-52,"Sparks, Nevada",218,,
-53,"Berlin,Berlin",215,,
-54,"Berlin,Germany",215,,
-55,"Menlo Park, CA +1 mehr",215,,
-56,"Petaling Jaya,Malaysia",214,,
-57,"Bucharest, RO Bucharest, RO",213,,
+10,"DE, BY, Munich",1011,DE|Munich,|DE
+11,"Berlin, Germany",818,Berlin|Germany,|DE
+12,"DE, BE, Berlin",735,DE|BE|Berlin,|DE
+13,Hamburg,727,Hamburg,DE
+14,München,683,München,
+15,", Shanghai",656,Shanghai,CN
+16,"Menlo Park, CA",565,Menlo|Park|CA,|US
+17,"Bellevue, Washington, United States",557,Bellevue|Washington|United States,|US
+18,Stuttgart,551,Stuttgart,DE
+19,"Hyderabad, Telangana, India",547,Hyderabad|Telangana|India,|IN
+20,"München, Deutschland",529,München|Deutschland,
+21,"Bangalore, Karnataka, India",495,Bangalore|Karnataka|India,|IN
+22,London,492,London,GB
+23,"Palo Alto, California",491,Palo Alto|California,US
+24,"Munich, Germany",473,Munich|Germany,|DE
+25,"Dublin, Ireland",445,Dublin|Ireland,IE|US
+26,"Mountain View, CA, USA",429,Mountain View|CA|USA,|US
+27,"Sunnyvale, CA, USA",426,Sunnyvale|CA|USA,|US
+28,"San Jose, California, US",416,San Jose|California|US,|US
+29,"Berlin,de",409,Berlin,DE
+30,"Hamburg, Deutschland",388,Hamburg|Deutschland,|DE
+31,"Grünheide (Gigafactory Berlin), Brandenburg",351,Grünheide|Gigafactory Berlin|Brandenburg,DE
+32,Beijing,349,Beijing,CN
+33,"Other, Other, United States",344,Other|United States,
+34,"San Francisco,us",343,San Francisco,US
+35,"Erlangen,Germany",338mis,Erlangen|Germany,|DE
+36,Villach,266,Villach,AT
+37,"Stuttgart, Deutschland",264,Stuttgart|Deutschland,|DE
+38,"Leipzig, Deutschland",263,Leipzig|Deutschland,|DE
+39,San Francisco,261,San|Francisco,ML|US
+40,"Nürnberg, Deutschland",260,Nürnberg|Deutschland,|DE
+41,"London, UK",258,London|UK,|GB
+42,"Penzberg,Deutschland",254,Penzberg|Deutschland,|DE
+43,"Suzhou, Jiangsu, China",245,Suzhou|Jiangsu|China,|CN|US
+44,"Hannover, Deutschland",237,Hannover|Deutschland,|DE
+45,New York,237,New York,US
+46,"Basel,Switzerland",233,Basel|Switzerland,CH|
+47,"Barcelona, Spain",231,Barcelona|Spain,|ES
+48,"Shanghai,中国",230,Shanghai|中国,|CN
+49,"Tokyo, Japan",227,Tokyo|Japan,|JP
+50,"South San Francisco,United States of America",226,South|San Francisco|United States|America,|NL|US
+51,"Tokyo, Tokyo-to, Japan",220,Tokyo|Tokyo|Japan,|JP
+52,"Sparks, Nevada",218,Sparks|Nevada,US
+53,"Berlin,Berlin",215,Berlin|Berlin,DE
+54,"Berlin,Germany",215,Berlin|Germany,|DE
+55,"Menlo Park, CA +1 mehr",215,Menlo|Park,US
+56,"Petaling Jaya,Malaysia",214,Jaya|Malaysia,
+57,"Bucharest, RO Bucharest, RO",213,Bucharest|RO Bucharest|RO,|RO
 58,GB GB,211,,
-59,"Branchburg,United States of America",207,,
-60,"London, United Kingdom",206,,
-61,"Timisoara,Romania",206,,
-62,"Budapest, HU Budapest, HU",204,,
-63,"Duisburg, Deutschland",200,,
+59,"Branchburg,United States of America",207,Branchburg|United States|America,|NL
+60,"London, United Kingdom",206,London|United Kingdom,|GB
+61,"Timisoara,Romania",206,Timisoara|Romania,|RO
+62,"Budapest, HU Budapest, HU",204,Budapest|HU Budapest|HU,|HU
+63,"Duisburg, Deutschland",200,Duisburg|Deutschland,|DE
 64,RO RO,198,,
-65,"Dublin, Dublin, Ireland",196,,
-66,"Pune, IN Pune, IN",194,,
-67,"San Francisco, CA, USA",194,,
-68,Sindelfingen,194,,
-69,"Budapest,Hungary",193,,
-70,"Atlanta, Georgia, United States",190,,
-71,"Bengaluru,in",190,,
-72,"Muenchen,Germany",188,,
+65,"Dublin, Dublin, Ireland",196,Dublin|Dublin|Ireland,IE|US
+66,"Pune, IN Pune, IN",194,Pune,IN
+67,"San Francisco, CA, USA",194,San Francisco|CA|USA,|US
+68,Sindelfingen,194,Sindelfingen,DE
+69,"Budapest,Hungary",193,Budapest|Hungary,|HU
+70,"Atlanta, Georgia, United States",190,Atlanta|Georgia|United States,|US
+71,"Bengaluru,in",190,Bengaluru,IN
+72,"Muenchen,Germany",188,Muenchen|Germany,
 73,Remote - US,187,,
-74,"Amsterdam, Netherlands",186,,
-75,"Reston, Virginia, United States",186,,
-76,"Shanghai,cn",182,,
-77,"Bengaluru, Karnataka, India",179,,
-78,Residence Based,178,,
+74,"Amsterdam, Netherlands",186,Amsterdam|Netherlands,|NL
+75,"Reston, Virginia, United States",186,Reston|Virginia|United States,|US
+76,"Shanghai,cn",182,Shanghai,CN
+77,"Bengaluru, Karnataka, India",179,Bengaluru|Karnataka|India,|IN
+78,Residence Based,178,Residence,
 79,Bangalore,177,,
-80,"Pune,India",177,,
-81,"Reutlingen,de",177,,
-82,Whippany,177,,
-83,"Shanghai, Shanghai, China",174,,
-84,"Vancouver, British Columbia, Canada",174,,
-85,"Arlington, Virginia, United States",172,,
-86,"Bangalore, KA, IN",169,,
+80,"Pune,India",177,Pune|India,|IN
+81,"Reutlingen,de",177,Reutlingen,DE
+82,Whippany,177,Whippany,US
+83,"Shanghai, Shanghai, China",174,Shanghai|Shanghai|China,CN|US
+84,"Vancouver, British Columbia, Canada",174,Vancouver|British Columbia|Canada,CA|US
+85,"Arlington, Virginia, United States",172,Arlington|Virginia|United States,|US
+86,"Bangalore, KA, IN",169,Bangalore|KA,|IN
 87,Remote,166,,
-88,"San Francisco, CA",166,,
-89,"Budapest,hu",165,,
-90,Americas,161,,
-91,Leverkusen,159,,
-92,Melaka,159,,
-93,Mountain View,158,,
-94,"Newbury, GB Newbury, GB",156,,
-95,"Regensburg,Germany",156,,
-96,DE/Dingolfing,154,,
-97,"Stockholm, Sweden",150,,
-98,"Redmond, WA",149,,
-99,"Beijing, Beijing, China",146,,
-100,"Düsseldorf, Deutschland",146,,
-101,"Wuxi,cn",146,,
-102,"Timișoara,ro",145,,
-103,"Austin, Texas",142,,
-104,US/Spartanburg-SouthCarolina,141,,
-105,"Rosslyn, Virginia, United States",140,,
-106,"New York, NY",136,,
-107,"New York, NY, USA",136,,
-108,Wolfsburg,136,,
-109,BeiJing,134,,
-110,"London, GB London, GB",134,,
-111,São Paulo,133,,
-112,"Cairo, EG Cairo, EG",132,,
-113,"Renningen,de",131,,
-114,"BEIJING,China",130,,
-115,"Amadora,Portugal",129,,
-116,"Mainz, Deutschland",129,,
-117,"Remote, United States",129,,
-118,"ttNorthridge, California, United Statestt",129,,
-119,Amsterdam,128,,
-120,"Menlo Park, CA +2 mehr",127,,
-121,"Indianapolis,United States of America",126,,
-122,"Mannheim,Deutschland",126,,
-123,"Reading, Berkshire, United Kingdom",126,,
-124,"Warsaw, Poland",126,,
-125,Tokyo,125,,
-126,"Zuffenhausen,Deutschland",125,,
-127,"Dresden, Deutschland",124,,
-128,"Nanjing, Jiangsu, China",123,,
-129,"Vienna,Austria",123,,
-130,Chesterfield,122,,
-131,"Beijing, Beijing",120,,
-132,"CA, BC, Vancouver",120,,
+88,"San Francisco, CA",166,San Francisco|CA,|US
+89,"Budapest,hu",165,Budapest,HU
+90,Americas,161,Americas,
+91,Leverkusen,159,Leverkusen,DE
+92,Melaka,159,Melaka,
+93,Mountain View,158,Mountain|View,|US
+94,"Newbury, GB Newbury, GB",156,Newbury|GB Newbury|GB,|GB
+95,"Regensburg,Germany",156,Regensburg|Germany,|DE
+96,DE/Dingolfing,154,DE,
+97,"Stockholm, Sweden",150,Stockholm|Sweden,SE|US
+98,"Redmond, WA",149,Redmond|WA,|US
+99,"Beijing, Beijing, China",146,Beijing|Beijing|China,CN|US
+100,"Düsseldorf, Deutschland",146,Düsseldorf|Deutschland,|DE
+101,"Wuxi,cn",146,Wuxi,CN
+102,"Timișoara,ro",145,Timișoara,RO
+103,"Austin, Texas",142,Austin|Texas,AU|US
+104,US/Spartanburg-SouthCarolina,141,US|Spartanburg,|US
+105,"Rosslyn, Virginia, United States",140,Rosslyn|Virginia|United States,|US|ZA
+106,"New York, NY",136,New York|NY,|US
+107,"New York, NY, USA",136,New York|NY|USA,|US
+108,Wolfsburg,136,Wolfsburg,DE
+109,BeiJing,134,BeiJing,
+110,"London, GB London, GB",134,London|GB London|GB,|GB
+111,São Paulo,133,São|Paulo,
+112,"Cairo, EG Cairo, EG",132,Cairo|EG Cairo|EG,|EG
+113,"Renningen,de",131,Renningen,DE
+114,"BEIJING,China",130,BEIJING|China,|US
+115,"Amadora,Portugal",129,Amadora|Portugal,|PT
+116,"Mainz, Deutschland",129,Mainz|Deutschland,|DE
+117,"Remote, United States",129,Remote|United States,
+118,"ttNorthridge, California, United Statestt",129,California|United Statestt,|US
+119,Amsterdam,128,Amsterdam,NL
+120,"Menlo Park, CA +2 mehr",127,Menlo|Park,US
+121,"Indianapolis,United States of America",126,Indianapolis|United States|America,|NL|US
+122,"Mannheim,Deutschland",126,Mannheim|Deutschland,|DE
+123,"Reading, Berkshire, United Kingdom",126,Reading|Berkshire|United Kingdom,|GB|US
+124,"Warsaw, Poland",126,Warsaw|Poland,US|PL
+125,Tokyo,125,Tokyo,JP
+126,"Zuffenhausen,Deutschland",125,Zuffenhausen|Deutschland,
+127,"Dresden, Deutschland",124,Dresden|Deutschland,|DE
+128,"Nanjing, Jiangsu, China",123,Nanjing|Jiangsu|China,|CN|US
+129,"Vienna,Austria",123,Vienna|Austria,AT|
+130,Chesterfield,122,Chesterfield,US
+131,"Beijing, Beijing",120,Beijing|Beijing,CN
+132,"CA, BC, Vancouver",120,BC|Vancouver,|CA
 133,HU HU,119,,
-134,"San Francisco,us, Remote",119,,
-135,"Seattle, WA",119,,
-136,"US, VA, Herndon",119,,
-137,"Iasi,Romania",118,,
-138,"Boxmeer, Netherlands",117,,
-139,"ttMounds View, Minnesota, United Statestt",117,,
-140,"Ludwigsburg,Deutschland",115,,
-141,"Istanbul,Turkey",114,,
-142,Dresden,111,,
-143,"Palo Alto, CA, US",111,,
-144,"Singapore,Singapore",111,,
-145,"Prague, Prague, Czech Republic",110,,
-146,"Lincolnton,us",109,,
-147,"Essen, Deutschland",107,,
-148,Москва,107,,
-149,"ttShanghai, Chinatt",106,,
-150,"Praha,CZECH REPUBLIC",105,,
-151,"Sydney, New South Wales, Australia",105,,
-152,"US, WA, Bellevue",105,,
-153,"FR, Courbevoie",104,,
-154,"Rotkreuz,Switzerland",104,,
-155,Germany,103,,
-156,"Denver, Colorado, United States",102,,
-157,in München,102,,
-158,"San Mateo, CA, USA",101,,
-159,Creve Coeur,100,,
-160,"Erfurt, Deutschland",100,,
-161,"Berlin, Frankfurt (Main), Deutschland",99,,
-162,"Krakow, Poland",99,,
-163,"Tarrytown,United States of America",99,,
-164,"Bucharest, Bucharest, Romania",98,,
-165,"Enschede, Netherlands",98,,
-166,"Herzliya, Tel Aviv, Israel",98,,
-167,"Mexico City, Mexico",98,,
-168,"Helsinki, Finland",97,,
-169,"DE, SN, Dresden",96,,
-170,"Fremont, CA",96,,
-171,"Herzogenaurach, Germany",96,,
-172,"IN, TS, Hyderabad",96,,
-173,"München, Nürnberg, Deutschland",96,,
-174,"Bruchsal,de",95,,
-175,"Caohejinghi Park, Shanghai, China",95,,
-176,"New York, New York, United States",95,,
-177,"Paris, France",95,,
-178,"Tucson,United States of America",94,,
-179,"Zürich, Switzerland",94,,
-180,"Sacramento,United States of America",93,,
-181,Warstein,92,,
-182,"US, CA, East Palo Alto",91,,
-183,"Midrand, ZA Midrand, ZA",90,,
+134,"San Francisco,us, Remote",119,San Francisco,US
+135,"Seattle, WA",119,Seattle|WA,|US
+136,"US, VA, Herndon",119,US|VA|Herndon,|US
+137,"Iasi,Romania",118,Iasi|Romania,|RO
+138,"Boxmeer, Netherlands",117,Boxmeer|Netherlands,|NL
+139,"ttMounds View, Minnesota, United Statestt",117,View|Minnesota|United Statestt,
+140,"Ludwigsburg,Deutschland",115,Ludwigsburg|Deutschland,|DE
+141,"Istanbul,Turkey",114,Istanbul|Turkey,TR|US
+142,Dresden,111,Dresden,DE
+143,"Palo Alto, CA, US",111,Palo Alto|CA|US,|US
+144,"Singapore,Singapore",111,Singapore|Singapore,SG
+145,"Prague, Prague, Czech Republic",110,Prague|Prague|Czech Republic,CZ|US
+146,"Lincolnton,us",109,Lincolnton,US
+147,"Essen, Deutschland",107,Essen|Deutschland,|DE
+148,Москва,107,Москва,
+149,"ttShanghai, Chinatt",106,ttShanghai|Chinatt,
+150,"Praha,CZECH REPUBLIC",105,Praha|CZECH,|SK
+151,"Sydney, New South Wales, Australia",105,Sydney|New South Wales|Australia,|AU
+152,"US, WA, Bellevue",105,US|WA|Bellevue,|US
+153,"FR, Courbevoie",104,Courbevoie,FR
+154,"Rotkreuz,Switzerland",104,Rotkreuz|Switzerland,
+155,Germany,103,Germany,
+156,"Denver, Colorado, United States",102,Denver|Colorado|United States,|BR|US
+157,in München,102,München,
+158,"San Mateo, CA, USA",101,San Mateo|CA|USA,|US
+159,Creve Coeur,100,Creve|Coeur,
+160,"Erfurt, Deutschland",100,Erfurt|Deutschland,|DE
+161,"Berlin, Frankfurt (Main), Deutschland",99,Berlin|Frankfurt Main|Deutschland,|DE
+162,"Krakow, Poland",99,Krakow|Poland,US|PL
+163,"Tarrytown,United States of America",99,Tarrytown|United States|America,|NL|US
+164,"Bucharest, Bucharest, Romania",98,Bucharest|Bucharest|Romania,|RO
+165,"Enschede, Netherlands",98,Enschede|Netherlands,|NL
+166,"Herzliya, Tel Aviv, Israel",98,Herzliya|Tel Aviv|Israel,|IL
+167,"Mexico City, Mexico",98,Mexico City|Mexico,MX|US
+168,"Helsinki, Finland",97,Helsinki|Finland,FI|US
+169,"DE, SN, Dresden",96,DE|SN|Dresden,|DE
+170,"Fremont, CA",96,Fremont|CA,|US
+171,"Herzogenaurach, Germany",96,Herzogenaurach|Germany,|DE
+172,"IN, TS, Hyderabad",96,TS|Hyderabad,|IN
+173,"München, Nürnberg, Deutschland",96,München|Nürnberg|Deutschland,|DE
+174,"Bruchsal,de",95,Bruchsal,DE
+175,"Caohejinghi Park, Shanghai, China",95,Caohejinghi|Park|Shanghai|China,|CN|US
+176,"New York, New York, United States",95,New York|New York|United States,|US
+177,"Paris, France",95,Paris|France,|FR
+178,"Tucson,United States of America",94,Tucson|United States|America,|NL|US
+179,"Zürich, Switzerland",94,Zürich|Switzerland,CH|
+180,"Sacramento,United States of America",93,Sacramento|United States|America,|NL|US
+181,Warstein,92,Warstein,DE
+182,"US, CA, East Palo Alto",91,US|CA|East Palo Alto,|US
+183,"Midrand, ZA Midrand, ZA",90,Midrand|ZA Midrand|ZA,|ZA
 184,Roding,90,,
-185,"Chengdu, Sichuan, China",89,,
-186,"IT, MI, Milan",89,,
-187,Barcelona,88,,
-188,"DE, SN, Leipzig",88,,
-189,Seattle,88,,
-190,"Walldorf, BW, DE",88,,
-191,Heredia,87,,
-192,"Milano,it",87,,
-193,"Taipei, Taiwan",87,,
-194,"Toulouse,France",87,,
-195,Frankfurt am Main,86,,
-196,"Halle (Saale), Deutschland",85,,
-197,"Issaquah, Washington, United States",85,,
-198,"Berlin, Berlin, Germany",83,,
-199,"Guangzhou, Guangdong, China",83,,
-200,"Nuernberg,Germany",83,,
-201,Remote USA,83,,
-202,"Cluj, Jucu,ro",82,,
-203,Milano Italia,82,,
-204,"San Luis Potosi,Mexico",82,,
-205,"Bratislava,Slovakia",81,,
-206,"Sydney NSW, Australia",80,,
-207,"Tres Cantos,Spain",80,,
-208,"Changzhou,cn",79,,
-209,Kulim,79,,
-210,"Leinfelden-Echterdingen,de",79,,
-211,München-Unterföhring,79,,
-212,"Newtown Square, PA, US",79,,
-213,"San Francisco, California, US",79,,
-214,"US, NY, New York",79,,
-215,"Augsburg, Deutschland",78,,
-216,"Campinas,br",78,,
-217,"Magdeburg,de",78,,
-218,"Tel Aviv, Israel",78,,
-219,ShangHai,77,,
-220,"Weissach,Deutschland",77,,
-221,Gdańsk,76,,
-222,Hannover,76,,
-223,"Hanover,Germany",76,,
-224,"Sunnyvale, California, United States",76,,
-225,Böblingen,75,,
-226,"Bühl,de",75,,
-227,"Hildesheim,de",75,,
-228,"Mannheim,Germany",75,,
-229,"Miskolc,hu",75,,
-230,"Oriental Towers, Beijing, China",75,,
-231,"UK, London",75,,
-232,"Amsterdam,nl",74,,
-233,Remote - Anywhere,74,,
-234,"Warsaw,Poland",74,,
-235,"DE, BW, Pforzheim",73,,
-236,Kuala Lumpur,73,,
-237,"London, England, United Kingdom",73,,
-238,"Washington, District of Columbia, United States",73,,
-239,", Jiangsu",72,,
-240,"Kaiseraugst,Switzerland",72,,
-241,"Las Vegas, Nevada",72,,
-242,"Warszawa,pl",72,,
-243,Americas - Canada,71,,
-244,Jakarta,71,,
-245,"Kassel, Deutschland",71,,
-246,"Ulm, Deutschland",71,,
-247,"Magdeburg, Deutschland",70,,
-248,"Basel,Schweiz",69,,
-249,"Dortmund, Deutschland",69,,
-250,"India,India",69,,
-251,"Lindenplatz, Haar, Germany",69,,
-252,"ttNorth Haven, Connecticut, United Statestt",69,,
-253,Vilnius,69,,
-254,"DE, ST, Suelzetal",68,,
-255,"IN, KA, Bangalore",68,,
-256,"Shanghai, 31, CN",68,,
-257,Mannheim,67,,
-258,"Regensburg, Deutschland",67,,
-259,"San Jose, San José, Costa Rica",67,,
-260,Shanghai,67,,
-261,"Sheffield, United Kingdom",67,,
-262,"Amsterdam, North Holland",66,,
-263,Ansbach,66,,
-264,"Dessau-Roßlau, Deutschland",66,,
+185,"Chengdu, Sichuan, China",89,Chengdu|Sichuan|China,|CN|US
+186,"IT, MI, Milan",89,MI|Milan,|IT
+187,Barcelona,88,Barcelona,ES
+188,"DE, SN, Leipzig",88,DE|SN|Leipzig,|DE
+189,Seattle,88,Seattle,US
+190,"Walldorf, BW, DE",88,Walldorf|BW|DE,|DE
+191,Heredia,87,Heredia,CR
+192,"Milano,it",87,Milano,US
+193,"Taipei, Taiwan",87,Taipei|Taiwan,|TW
+194,"Toulouse,France",87,Toulouse|France,|FR
+195,Frankfurt am Main,86,Frankfurt|Main,|DE
+196,"Halle (Saale), Deutschland",85,Halle|Saale|Deutschland,|DE
+197,"Issaquah, Washington, United States",85,Issaquah|Washington|United States,|US
+198,"Berlin, Berlin, Germany",83,Berlin|Berlin|Germany,|DE
+199,"Guangzhou, Guangdong, China",83,Guangzhou|Guangdong|China,|CN|US
+200,"Nuernberg,Germany",83,Nuernberg|Germany,
+201,Remote USA,83,Remote|USA,
+202,"Cluj, Jucu,ro",82,Cluj|Jucu,
+203,Milano Italia,82,Milano|Italia,|US
+204,"San Luis Potosi,Mexico",82,San|Luis Potosi|Mexico,US|ML|BO
+205,"Bratislava,Slovakia",81,Bratislava|Slovakia,|SK
+206,"Sydney NSW, Australia",80,Sydney|NSW|Australia,|AU
+207,"Tres Cantos,Spain",80,Tres Cantos|Spain,|ES
+208,"Changzhou,cn",79,Changzhou,CN
+209,Kulim,79,Kulim,MY
+210,"Leinfelden-Echterdingen,de",79,Leinfelden|Echterdingen,
+211,München-Unterföhring,79,München,
+212,"Newtown Square, PA, US",79,Newtown|Square|PA|US,|US
+213,"San Francisco, California, US",79,San Francisco|California|US,|US
+214,"US, NY, New York",79,US|NY|New York,|US
+215,"Augsburg, Deutschland",78,Augsburg|Deutschland,|DE
+216,"Campinas,br",78,Campinas,BR
+217,"Magdeburg,de",78,Magdeburg,DE
+218,"Tel Aviv, Israel",78,Tel Aviv|Israel,|IL
+219,ShangHai,77,ShangHai,
+220,"Weissach,Deutschland",77,Weissach|Deutschland,|DE
+221,Gdańsk,76,Gdańsk,PL
+222,Hannover,76,Hannover,DE
+223,"Hanover,Germany",76,Hanover|Germany,|US
+224,"Sunnyvale, California, United States",76,Sunnyvale|California|United States,|US
+225,Böblingen,75,Böblingen,DE
+226,"Bühl,de",75,Bühl,DE
+227,"Hildesheim,de",75,Hildesheim,DE
+228,"Mannheim,Germany",75,Mannheim|Germany,|DE
+229,"Miskolc,hu",75,Miskolc,HU
+230,"Oriental Towers, Beijing, China",75,Oriental|Towers|Beijing|China,|CN|US
+231,"UK, London",75,London,GB
+232,"Amsterdam,nl",74,Amsterdam,NL
+233,Remote - Anywhere,74,Remote,
+234,"Warsaw,Poland",74,Warsaw|Poland,US|PL
+235,"DE, BW, Pforzheim",73,DE|BW|Pforzheim,|DE
+236,Kuala Lumpur,73,Kuala|Lumpur,
+237,"London, England, United Kingdom",73,London|England|United Kingdom,|GB|US
+238,"Washington, District of Columbia, United States",73,Washington|District|Columbia|United States,|US
+239,", Jiangsu",72,Jiangsu,
+240,"Kaiseraugst,Switzerland",72,Kaiseraugst|Switzerland,CH|
+241,"Las Vegas, Nevada",72,Las|Vegas|Nevada,|US
+242,"Warszawa,pl",72,Warszawa,
+243,Americas - Canada,71,Canada,US
+244,Jakarta,71,Jakarta,ID
+245,"Kassel, Deutschland",71,Kassel|Deutschland,|DE
+246,"Ulm, Deutschland",71,Ulm|Deutschland,|DE
+247,"Magdeburg, Deutschland",70,Magdeburg|Deutschland,|DE
+248,"Basel,Schweiz",69,Basel|Schweiz,CH|
+249,"Dortmund, Deutschland",69,Dortmund|Deutschland,|DE
+250,"India,India",69,India|India,
+251,"Lindenplatz, Haar, Germany",69,Lindenplatz|Haar|Germany,|DE
+252,"ttNorth Haven, Connecticut, United Statestt",69,ttNorth|Haven|Connecticut|United Statestt,|US
+253,Vilnius,69,Vilnius,LT
+254,"DE, ST, Suelzetal",68,DE|ST|Suelzetal,|DE
+255,"IN, KA, Bangalore",68,KA|Bangalore,|IN
+256,"Shanghai, 31, CN",68,Shanghai|CN,|CN
+257,Mannheim,67,Mannheim,DE
+258,"Regensburg, Deutschland",67,Regensburg|Deutschland,|DE
+259,"San Jose, San José, Costa Rica",67,San Jose|San José|Costa Rica,CR|BR|US
+260,Shanghai,67,Shanghai,CN
+261,"Sheffield, United Kingdom",67,Sheffield|United Kingdom,|GB
+262,"Amsterdam, North Holland",66,Amsterdam|North Holland,NL|US
+263,Ansbach,66,Ansbach,DE
+264,"Dessau-Roßlau, Deutschland",66,Dessau|Roßlau|Deutschland,|DE
 265,GB/OTHER,66,,
 266,IN-Mumbai,66,,
-267,Krakow,66,,
-268,"Mumbai, Maharashtra, India",66,,
-269,"ttIrvine, California, United Statestt",66,,
-270,US - Michigan,66,,
-271,"DE, SN, Schkeuditz",65,,
-272,", Guangdong",65,,
-273,"New York,us",65,,
-274,"Sant Cugat del Vallès,Spain",65,,
-275,"Beijing,中国",64,,
-276,"San Bruno, CA, USA",64,,
-277,"ttTempe, Arizona, United Statestt",64,,
-278,Vienna,64,,
-279,"Wuxi, 无锡",64,,
-280,"Bietigheim-Bissingen,Deutschland",63,,
+267,Krakow,66,Krakow,PL
+268,"Mumbai, Maharashtra, India",66,Mumbai|Maharashtra|India,|IN
+269,"ttIrvine, California, United Statestt",66,ttIrvine|California|United Statestt,|US
+270,US - Michigan,66,US|Michigan,
+271,"DE, SN, Schkeuditz",65,DE|SN|Schkeuditz,|DE
+272,", Guangdong",65,Guangdong,
+273,"New York,us",65,New York,US
+274,"Sant Cugat del Vallès,Spain",65,Sant|Cugat|Vallès|Spain,
+275,"Beijing,中国",64,Beijing|中国,|CN
+276,"San Bruno, CA, USA",64,San Bruno|CA|USA,|US
+277,"ttTempe, Arizona, United Statestt",64,ttTempe|Arizona|United Statestt,|AR
+278,Vienna,64,Vienna,AT
+279,"Wuxi, 无锡",64,Wuxi|无锡,|CN
+280,"Bietigheim-Bissingen,Deutschland",63,Bietigheim Bissingen|Deutschland,
 281,CZ CZ,63,,
-282,"Mumbai,India",63,,
-283,"Taipei, Taipei City, Taiwan",63,,
-284,"US, CA, Sunnyvale",63,,
-285,Wallisellen,63,,
-286,"Charlotte, North Carolina, United States",62,,
-287,"Freiburg (Breisgau), Deutschland",62,,
-288,"Malvern,United States of America",62,,
-289,"50 Tuas West Dr, Singapore, Singapore",61,,
-290,"Beijing,Hong Kong,Shanghai,Shenzhen,Taipei-China",61,,
-291,"Chiyoda, Tokyo, Japan",61,,
-292,"DE, HE, Frankfurt",61,,
-293,DE/Regensburg,61,,
-294,"Five, Prague, Czechia",61,,
-295,"Guadalajara,Mexico",61,,
-296,"Redmond, Washington, United States,Reston, Virginia, United States",61,,
-297,Regensburg,61,,
-298,"Singapore (APAC-HQ), Other, Singapore",61,,
-299,Tübingen,61,,
-300,"Aveiro,pt",60,,
-301,"Bremen, Deutschland",60,,
-302,DE/Leipzig,60,,
-303,"Jakarta,Indonesia",60,,
-304,"Lake Mary, Florida, United States",60,,
-305,Los Angeles,60,,
-306,"Madrid, ES",60,,
-307,"Richardson, Texas, US",60,,
-308,"Rostock, Deutschland",60,,
-309,"Rotkreuz,Schweiz",60,,
-310,"São Paulo, State of São Paulo, Brazil",60,,
-311,"Toronto,ca",60,,
-312,"Braga,pt",59,,
-313,"Bukarest, Rumänien",59,,
-314,"Düsseldorf, DE Düsseldorf, DE",59,,
-315,"Redwood City, CA, USA",59,,
-316,"San Rafael de Escazu,Costa Rica",59,,
-317,"Seoul, South Korea",59,,
-318,"St. Louis,us",59,,
-319,"ttMinneapolis, Minnesota, United Statestt",59,,
-320,"Buffalo, New York",58,,
-321,Duderstadt,58,,
-322,"Singapore, Other, Singapore",58,,
-323,"Athens, GR Athens, GR",57,,
+282,"Mumbai,India",63,Mumbai|India,|IN
+283,"Taipei, Taipei City, Taiwan",63,Taipei|Taipei City|Taiwan,|TW
+284,"US, CA, Sunnyvale",63,US|CA|Sunnyvale,|US
+285,Wallisellen,63,Wallisellen,CH
+286,"Charlotte, North Carolina, United States",62,Charlotte|North Carolina|United States,|US
+287,"Freiburg (Breisgau), Deutschland",62,Freiburg|Breisgau|Deutschland,|DE
+288,"Malvern,United States of America",62,Malvern|United States|America,|NL|US
+289,"50 Tuas West Dr, Singapore, Singapore",61,Singapore|Singapore,SG
+290,"Beijing,Hong Kong,Shanghai,Shenzhen,Taipei-China",61,Beijing|Hong Kong|Shanghai|Shenzhen|Taipei China,HK|TW|CN
+291,"Chiyoda, Tokyo, Japan",61,Chiyoda|Tokyo|Japan,|JP
+292,"DE, HE, Frankfurt",61,DE|Frankfurt,|DE
+293,DE/Regensburg,61,DE Regensburg,DE
+294,"Five, Prague, Czechia",61,Prague|Czechia,|CZ
+295,"Guadalajara,Mexico",61,Guadalajara|Mexico,MX|US
+296,"Redmond, Washington, United States,Reston, Virginia, United States",61,Redmond|Washington|United States|Reston|Virginia|United States,|US
+297,Regensburg,61,Regensburg,DE
+298,"Singapore (APAC-HQ), Other, Singapore",61,Singapore|APAC|Other|Singapore,|SG
+299,Tübingen,61,Tübingen,DE
+300,"Aveiro,pt",60,Aveiro,PT
+301,"Bremen, Deutschland",60,Bremen|Deutschland,|DE
+302,DE/Leipzig,60,DE Leipzig,DE
+303,"Jakarta,Indonesia",60,Jakarta|Indonesia,|ID
+304,"Lake Mary, Florida, United States",60,Lake|Mary|Florida|United States,|TM|UY|US
+305,Los Angeles,60,Los Angeles,US
+306,"Madrid, ES",60,Madrid|ES,|ES
+307,"Richardson, Texas, US",60,Richardson|Texas|US,|AU|US
+308,"Rostock, Deutschland",60,Rostock|Deutschland,|DE
+309,"Rotkreuz,Schweiz",60,Rotkreuz|Schweiz,
+310,"São Paulo, State of São Paulo, Brazil",60,São|Paulo|São Paulo|Brazil,|BR|US
+311,"Toronto,ca",60,Toronto,CA
+312,"Braga,pt",59,Braga,PT
+313,"Bukarest, Rumänien",59,Bukarest|Rumänien,
+314,"Düsseldorf, DE Düsseldorf, DE",59,Düsseldorf|DE Düsseldorf|DE,|DE
+315,"Redwood City, CA, USA",59,Redwood|City|CA|USA,|US
+316,"San Rafael de Escazu,Costa Rica",59,San|Rafael de Escazu|Costa Rica,|ML|BR
+317,"Seoul, South Korea",59,Seoul|South Korea,|KR
+318,"St. Louis,us",59,Louis,
+319,"ttMinneapolis, Minnesota, United Statestt",59,ttMinneapolis|Minnesota|United Statestt,
+320,"Buffalo, New York",58,Buffalo|New York,US
+321,Duderstadt,58,Duderstadt,DE
+322,"Singapore, Other, Singapore",58,Singapore|Other|Singapore,|SG
+323,"Athens, GR Athens, GR",57,Athens|GR Athens|GR,GR|
 324,Bremen,57,,
-325,Cagliari Italia,57,,
-326,"Colpatria, Distrito Capital de Bogotá, Colombia",57,,
-327,"Düsseldorf, Germany",57,,
+325,Cagliari Italia,57,Cagliari|Italia,|IT
+326,"Colpatria, Distrito Capital de Bogotá, Colombia",57,Colpatria|Distrito Capital|Bogotá|Colombia,|CO
+327,"Düsseldorf, Germany",57,Düsseldorf|Germany,|DE
 328,Minneapolis,57,,
-329,"nttttttttttttnttttttttttttMounds View, Minnesota, United Statesnttttttttttttnttttttttttttnttttttttttt",57,,
-330,"Pune, India",57,,
-331,"Cary,United States of America",56,,
-332,Charleston,56,,
-333,Chicago,56,,
-334,"Forchheim,Germany",56,,
-335,"Krefeld, Deutschland",56,,
-336,"Lathrop, California",56,,
-337,"nttttttttttttnttttttttttttShanghai, Chinanttttttttttttnttttttttttttnttttttttttt",56,,
-338,"Redmond, WA +1 mehr",56,,
-339,"Redmond, Washington, United States,Other, Other, United States",56,,
-340,"Tokyo, Kanto, Japan",56,,
-341,"Atlanta,us",55,,
-342,"DE, BY, Muenchen",55,,
-343,"Istanbul, TR Istanbul, TR",55,,
-344,"Las Colinas, Texas, United States",55,,
-345,"Mannheim, Deutschland",55,,
-346,"Milano,Milano",55,,
-347,"Santa Clara,United States of America",55,,
-348,"Xindian District, New Taipei City, Taiwan",55,,
-349,"Coimbatore,in",54,,
-350,"Guadalajara,mx",54,,
-351,"Lisbon, Lisbon, Portugal",54,,
-352,"Lohr am Main,de",54,,
-353,Remote - US / Canada,54,,
-354,"Shanghai, Shanghai, China,Wuxi, Jiangsu, China",54,,
-355,Berkeley,53,,
-356,"Chicago, IL, USA",53,,
-357,"Cluj-Napoca,ro",53,,
-358,"FR, Paris",53,,
-359,"Hagen, Deutschland",53,,
-360,Heidelberg,53,,
-361,Kassel,53,,
-362,"Mount Prospect,us",53,,
-363,"nttttttttttttnttttttttttttNorthridge, California, United Statesnttttttttttttnttttttttttttnttttttttttt",53,,
-364,"San Jose, More...",53,,
-365,"Shanghai, China",53,,
-366,"Sunnyvale, CA",53,,
+329,"nttttttttttttnttttttttttttMounds View, Minnesota, United Statesnttttttttttttnttttttttttttnttttttttttt",57,View|Minnesota|United Statesnttttttttttttnttttttttttttnttttttttttt,
+330,"Pune, India",57,Pune|India,|IN
+331,"Cary,United States of America",56,Cary|United States|America,|NL|US
+332,Charleston,56,Charleston,US
+333,Chicago,56,Chicago,US
+334,"Forchheim,Germany",56,Forchheim|Germany,|DE
+335,"Krefeld, Deutschland",56,Krefeld|Deutschland,|DE
+336,"Lathrop, California",56,Lathrop|California,US
+337,"nttttttttttttnttttttttttttShanghai, Chinanttttttttttttnttttttttttttnttttttttttt",56,Chinanttttttttttttnttttttttttttnttttttttttt,
+338,"Redmond, WA +1 mehr",56,Redmond,US
+339,"Redmond, Washington, United States,Other, Other, United States",56,Redmond|Washington|United States|Other|Other|United States,|US
+340,"Tokyo, Kanto, Japan",56,Tokyo|Kanto|Japan,|JP
+341,"Atlanta,us",55,Atlanta,US
+342,"DE, BY, Muenchen",55,DE|Muenchen,
+343,"Istanbul, TR Istanbul, TR",55,Istanbul|TR Istanbul|TR,|TR
+344,"Las Colinas, Texas, United States",55,Las Colinas|Texas|United States,|BR|AU
+345,"Mannheim, Deutschland",55,Mannheim|Deutschland,|DE
+346,"Milano,Milano",55,Milano|Milano,US
+347,"Santa Clara,United States of America",55,Santa|Clara|United States|America,|IE|PH|NL
+348,"Xindian District, New Taipei City, Taiwan",55,Xindian|District|New|Taipei City|Taiwan,|TW
+349,"Coimbatore,in",54,Coimbatore,IN
+350,"Guadalajara,mx",54,Guadalajara,MX
+351,"Lisbon, Lisbon, Portugal",54,Lisbon|Lisbon|Portugal,|PT
+352,"Lohr am Main,de",54,Lohr|Main,|FR
+353,Remote - US / Canada,54,US Canada,
+354,"Shanghai, Shanghai, China,Wuxi, Jiangsu, China",54,Shanghai|Shanghai|China|Wuxi|Jiangsu|China,|CN|US
+355,Berkeley,53,Berkeley,US
+356,"Chicago, IL, USA",53,Chicago|IL|USA,|US
+357,"Cluj-Napoca,ro",53,Cluj|Napoca,
+358,"FR, Paris",53,Paris,FR
+359,"Hagen, Deutschland",53,Hagen|Deutschland,|DE
+360,Heidelberg,53,Heidelberg,DE
+361,Kassel,53,Kassel,DE
+362,"Mount Prospect,us",53,Mount Prospect,US
+363,"nttttttttttttnttttttttttttNorthridge, California, United Statesnttttttttttttnttttttttttttnttttttttttt",53,California|United Statesnttttttttttttnttttttttttttnttttttttttt,|US
+364,"San Jose, More...",53,San Jose,US
+365,"Shanghai, China",53,Shanghai|China,CN|US
+366,"Sunnyvale, CA",53,Sunnyvale|CA,|US
 367,UK - London,53,,
-368,"Würzburg, Deutschland",53,,
-369,"Auckland, NZ Auckland, NZ",52,,
-370,"Issy Les Moulineaux, Hauts-de-Seine, France",52,,
-371,"Pleasanton,United States of America",52,,
-372,Taguig,52,,
-373,"Toronto, Ontario, Canada",52,,
-374,"US, VA, Arlington",52,,
-375,"Washington D.C., District of Columbia, United States",52,,
-376,"Wittenberge, Deutschland",52,,
-377,"Draper, Utah",51,,
-378,"Dresden,de",51,,
-379,"Gelsenkirchen, Deutschland",51,,
-380,"Hankou, Wuhan, Hubei, China",51,,
-381,"Herndon, Virginia, US",51,,
-382,Hong Kong,51,,
-383,"Mexico City, México, Mexico",51,,
-384,Moscow,51,,
-385,"US, CA, San Francisco",51,,
-386,"Waarderweg, Haarlem, Netherlands",51,,
-387,"Wilmer, Vereinigte Staaten",51,,
-388,"Austin, Texas, United States",50,,
-389,"DE, HB, Bremen",50,,
-390,"DE, HH, Winsen",50,,
-391,DE/Landshut,50,,
-392,"Jakarta, Indonesia",50,,
-393,Jawor,50,,
-394,"Owatonna,us",50,,
-395,"Petaling Jaya, Selangor, Malaysia",50,,
-396,San Jose,50,,
-397,"Carlisle, Vereinigte Staaten",49,,
-398,"DE, HE, Bad Hersfeld",49,,
-399,"DE, RP, Frankenthal (Pfalz)",49,,
-400,"Foster City, CA, US",49,,
-401,"Milan, Corso Como 15. It’s fine if you prefer to work remotely sometimes. We offer substantial support for relocation, including finding an apartment in Milan and paying the rent for twelve weeks.",49,,
-402,"Redmond, Washington, United States,Reston, Virginia, United States,Elkridge, Maryland, United States",49,,
-403,"Schwäbisch Gmünd,de",49,,
-404,"DE, NW, Dortmund",48,,
-405,"DE, NW, Oelde",48,,
-406,Gurugram-India,48,,
-407,"Hatvan,hu",48,,
-408,"IT Riverview, Prague 5, Czechia",48,,
-409,"JP, Tokyo",48,,
-410,Madrid,48,,
-411,"Schwieberdingen,de",48,,
-412,"Tel Aviv-Yafo, Israel",48,,
-413,"Fulda, Deutschland",47,,
-414,"Guangzhou, Guangdong",47,,
-415,"Koblenz, Deutschland",47,,
-416,Leipzig,47,,
-417,"London, Other, United Kingdom",47,,
-418,"San Francisco, CA, United States",47,,
-419,"Singapore Regional Head Office, Singapur",47,,
-420,"Winchester, VA,United States",47,,
-421,"Berlin, DE",46,,
-422,Düsseldorf,46,,
-423,"Edwardsville, Vereinigte Staaten",46,,
-424,"ES, M, Madrid",46,,
-425,France,46,,
+368,"Würzburg, Deutschland",53,Würzburg|Deutschland,|DE
+369,"Auckland, NZ Auckland, NZ",52,Auckland|NZ Auckland|NZ,|NZ
+370,"Issy Les Moulineaux, Hauts-de-Seine, France",52,Issy|Les Moulineaux|Hauts|Seine|France,
+371,"Pleasanton,United States of America",52,Pleasanton|United States|America,|NL|US
+372,Taguig,52,Taguig,PH
+373,"Toronto, Ontario, Canada",52,Toronto|Ontario|Canada,CA|US
+374,"US, VA, Arlington",52,US|VA|Arlington,|US
+375,"Washington D.C., District of Columbia, United States",52,Washington|District|Columbia|United States,|US
+376,"Wittenberge, Deutschland",52,Wittenberge|Deutschland,|DE
+377,"Draper, Utah",51,Draper|Utah,|US
+378,"Dresden,de",51,Dresden,DE
+379,"Gelsenkirchen, Deutschland",51,Gelsenkirchen|Deutschland,|DE
+380,"Hankou, Wuhan, Hubei, China",51,Hankou|Wuhan|Hubei|China,|CN|US
+381,"Herndon, Virginia, US",51,Herndon|Virginia|US,|US
+382,Hong Kong,51,Hong Kong,HK
+383,"Mexico City, México, Mexico",51,Mexico City|México|Mexico,|MX|US
+384,Moscow,51,Moscow,RU
+385,"US, CA, San Francisco",51,US|CA|San Francisco,|US
+386,"Waarderweg, Haarlem, Netherlands",51,Waarderweg|Haarlem|Netherlands,|NL
+387,"Wilmer, Vereinigte Staaten",51,Wilmer|Vereinigte Staaten,|US
+388,"Austin, Texas, United States",50,Austin|Texas|United States,|AU|US
+389,"DE, HB, Bremen",50,DE|HB|Bremen,|DE
+390,"DE, HH, Winsen",50,DE|HH|Winsen,|DE
+391,DE/Landshut,50,DE Landshut,
+392,"Jakarta, Indonesia",50,Jakarta|Indonesia,|ID
+393,Jawor,50,Jawor,PL
+394,"Owatonna,us",50,Owatonna,US
+395,"Petaling Jaya, Selangor, Malaysia",50,Jaya|Selangor|Malaysia,
+396,San Jose,50,San|Jose,|ML
+397,"Carlisle, Vereinigte Staaten",49,Carlisle|Vereinigte Staaten,|GB
+398,"DE, HE, Bad Hersfeld",49,DE|Bad Hersfeld,|DE
+399,"DE, RP, Frankenthal (Pfalz)",49,DE|RP|Frankenthal Pfalz,
+400,"Foster City, CA, US",49,Foster|City|CA|US,|US
+401,"Milan, Corso Como 15. It’s fine if you prefer to work remotely sometimes. We offer substantial support for relocation, including finding an apartment in Milan and paying the rent for twelve weeks.",49,Milan|Corso|Milan,|IT
+402,"Redmond, Washington, United States,Reston, Virginia, United States,Elkridge, Maryland, United States",49,Redmond|Washington|United States|Reston|Virginia|United States|Elkridge|Maryland|United States,|AU|US
+403,"Schwäbisch Gmünd,de",49,Schwäbisch|Gmünd,|AT
+404,"DE, NW, Dortmund",48,DE|NW|Dortmund,|DE
+405,"DE, NW, Oelde",48,DE|NW|Oelde,|DE
+406,Gurugram-India,48,Gurugram|India,
+407,"Hatvan,hu",48,Hatvan,HU
+408,"IT Riverview, Prague 5, Czechia",48,Prague|Czechia,|CZ
+409,"JP, Tokyo",48,Tokyo,JP
+410,Madrid,48,Madrid,ES
+411,"Schwieberdingen,de",48,Schwieberdingen,DE
+412,"Tel Aviv-Yafo, Israel",48,Tel|Aviv Yafo|Israel,
+413,"Fulda, Deutschland",47,Fulda|Deutschland,|DE
+414,"Guangzhou, Guangdong",47,Guangzhou|Guangdong,|CN
+415,"Koblenz, Deutschland",47,Koblenz|Deutschland,|DE
+416,Leipzig,47,Leipzig,DE
+417,"London, Other, United Kingdom",47,London|Other|United Kingdom,|GB
+418,"San Francisco, CA, United States",47,San Francisco|CA|United States,|US
+419,"Singapore Regional Head Office, Singapur",47,Singapore|Regional Head|Singapur,|SG
+420,"Winchester, VA,United States",47,VA|United States,
+421,"Berlin, DE",46,Berlin|DE,|DE
+422,Düsseldorf,46,Düsseldorf,DE
+423,"Edwardsville, Vereinigte Staaten",46,Edwardsville|Vereinigte Staaten,|US
+424,"ES, M, Madrid",46,Madrid,ES
+425,France,46,France,
 426,Gilching,46,,
-427,"Hangzhou,cn",46,,
-428,India - Bangalore,46,,
-429,"Saarbrücken, Deutschland",46,,
-430,"São Paulo, São Paulo, Brazil",46,,
-431,"Shanghai, Shanghai",46,,
-432,"Welwyn,United Kingdom",46,,
-433,"Bengaluru, KA, IN",45,,
-434,Esslingen,45,,
-435,"Mississauga,Canada",45,,
-436,"Munich, Bavaria, Germany",45,,
-437,"Newtown Square, PA, US, 19073",45,,
-438,"Raleigh, North Carolina",45,,
-439,"Torre Z, Sao Paulo, Brazil",45,,
-440,"Vienna,at",45,,
-441,"Wernau (Neckar),de",45,,
-442,"Wuppertal, Deutschland",45,,
-443,"Austin, TX",44,,
-444,"Austin, TX, USA",44,,
-445,Boston,44,,
-446,"Brasov,Romania",44,,
-447,"Chicago, Illinois, US",44,,
-448,"Cottbus, Deutschland",44,,
-449,"DE, BY, Graben",44,,
-450,"DE, NW, Cologne",44,,
-451,Köln,44,,
-452,"Menlo Park, CA +3 mehr",44,,
-453,"Shanghai, 31, CN, 201203",44,,
-454,"Sibiu,Romania",44,,
-455,"ttHyderabad, Andhra Pradesh, Indiatt",44,,
+427,"Hangzhou,cn",46,Hangzhou,CN
+428,India - Bangalore,46,India,
+429,"Saarbrücken, Deutschland",46,Saarbrücken|Deutschland,|DE
+430,"São Paulo, São Paulo, Brazil",46,São|Paulo|São Paulo|Brazil,|BR|US
+431,"Shanghai, Shanghai",46,Shanghai|Shanghai,CN
+432,"Welwyn,United Kingdom",46,Welwyn|United Kingdom,|GB
+433,"Bengaluru, KA, IN",45,Bengaluru|KA,|IN
+434,Esslingen,45,Esslingen,CH
+435,"Mississauga,Canada",45,Mississauga|Canada,CA|US
+436,"Munich, Bavaria, Germany",45,Munich|Bavaria|Germany,|DE
+437,"Newtown Square, PA, US, 19073",45,Newtown|Square|PA|US,|US
+438,"Raleigh, North Carolina",45,Raleigh|North Carolina,|US
+439,"Torre Z, Sao Paulo, Brazil",45,Torre|Z|Sao Paulo|Brazil,CH||BR|US
+440,"Vienna,at",45,Vienna,AT
+441,"Wernau (Neckar),de",45,Wernau|Neckar,|DE
+442,"Wuppertal, Deutschland",45,Wuppertal|Deutschland,|DE
+443,"Austin, TX",44,Austin|TX,|US
+444,"Austin, TX, USA",44,Austin|TX|USA,|US
+445,Boston,44,Boston,US
+446,"Brasov,Romania",44,Brasov|Romania,|RO
+447,"Chicago, Illinois, US",44,Chicago|Illinois|US,|US
+448,"Cottbus, Deutschland",44,Cottbus|Deutschland,|DE
+449,"DE, BY, Graben",44,DE|Graben,|DE
+450,"DE, NW, Cologne",44,DE|NW|Cologne,|DE
+451,Köln,44,Köln,
+452,"Menlo Park, CA +3 mehr",44,Menlo|Park,US
+453,"Shanghai, 31, CN, 201203",44,Shanghai|CN,|CN
+454,"Sibiu,Romania",44,Sibiu|Romania,|RO
+455,"ttHyderabad, Andhra Pradesh, Indiatt",44,ttHyderabad|Andhra Pradesh|Indiatt,
 456,ZA ZA,44,,
-457,"Bangalore, IN Bangalore, IN",43,,
-458,"DE, NW, Rheinberg",43,,
-459,Dortmund,43,,
-460,"France,France",43,,
-461,Kirchheim unter Teck,43,,
-462,Montreal,43,,
-463,"Neumünster, Deutschland",43,,
-464,"Ostrava,CZECH REPUBLIC",43,,
-465,"Singapore,sg",43,,
-466,"Somersworth, NH,United States",43,,
-467,"Tallinn, Harjumaa, Estonia",43,,
-468,"ttFridley, Minnesota, United Statestt",43,,
-469,"Alpharetta,United States of America",42,,
-470,"Austin, Texas, US",42,,
-471,"Bayan Lepas,my",42,,
-472,"Braunschweig,Germany",42,,
-473,"Bucuresti, RO Bucuresti, RO",42,,
-474,"Cluj,Rumänien",42,,
-475,"Dallas, Texas",42,,
-476,"DE, BB, Brieselang",42,,
-477,"Dublin, IE Dublin, IE",42,,
-478,"GUANGZHOU,China",42,,
-479,"Molenstraat, Oss, Netherlands",42,,
-480,Sao Paulo,42,,
-481,"Seoul, Seoul, Korea",42,,
-482,"Singapore Office, Singapur",42,,
-483,"St. Leon-Rot, BW, DE, 68789",42,,
-484,"Waterloo, ON, Canada",42,,
-485,"Zilina,Slovakia",42,,
-486,"Berlin, BE, DE, 10178",41,,
-487,"DE, RP, Kobern-Gondorf",41,,
-488,"Eisenach,de",41,,
-489,"Gerlingen,de",41,,
-490,"Gurugram,India",41,,
-491,"Hanau, Deutschland",41,,
-492,"Madrid, Madrid, Spain",41,,
-493,"New York, New York",41,,
-494,Seoul,41,,
-495,"ttSingapore, Singapore, Singaporett",41,,
-496,Ulm,41,,
-497,"Beograd,rs",40,,
-498,"Bogota,Colombia",40,,
-499,"EMEA, Europe",40,,
-500,Grenzach-Wyhlen,40,,
-501,"IE, D, Dublin",40,,
-502,"Kaunas,Lithuania",40,,
-503,"LU, Luxembourg",40,,
-504,New York City,40,,
-505,Nürnberg,40,,
-506,"San Francisco, California, United States",40,,
-507,"ttBoulder, Colorado, United Statestt",40,,
-508,"Vienna, Austria",40,,
-509,"Weilimdorf,Deutschland",40,,
-510,"Ambala, Indien",39,,
-511,"Amsterdam,Amsterdam",39,,
-512,Atlanta,39,,
-513,"City Place, San Jose, Costa Rica",39,,
-514,"DE, NW, Moenchengladbach",39,,
-515,"Hangzhou, Zhejiang, China",39,,
+457,"Bangalore, IN Bangalore, IN",43,Bangalore,IN
+458,"DE, NW, Rheinberg",43,DE|NW|Rheinberg,|DE
+459,Dortmund,43,Dortmund,DE
+460,"France,France",43,France|France,
+461,Kirchheim unter Teck,43,Kirchheim|Teck,|FR
+462,Montreal,43,Montreal,CA
+463,"Neumünster, Deutschland",43,Deutschland,
+464,"Ostrava,CZECH REPUBLIC",43,Ostrava|CZECH,|CZ
+465,"Singapore,sg",43,Singapore,SG
+466,"Somersworth, NH,United States",43,Somersworth|NH|United States,|US
+467,"Tallinn, Harjumaa, Estonia",43,Tallinn|Harjumaa|Estonia,|EE
+468,"ttFridley, Minnesota, United Statestt",43,ttFridley|Minnesota|United Statestt,
+469,"Alpharetta,United States of America",42,Alpharetta|United States|America,|NL|US
+470,"Austin, Texas, US",42,Austin|Texas|US,|AU|US
+471,"Bayan Lepas,my",42,Bayan|Lepas,|KW
+472,"Braunschweig,Germany",42,Braunschweig|Germany,|DE
+473,"Bucuresti, RO Bucuresti, RO",42,Bucuresti|RO Bucuresti|RO,
+474,"Cluj,Rumänien",42,Cluj|Rumänien,
+475,"Dallas, Texas",42,Dallas|Texas,AU|US
+476,"DE, BB, Brieselang",42,DE|BB|Brieselang,|DE
+477,"Dublin, IE Dublin, IE",42,Dublin|IE Dublin|IE,|IE
+478,"GUANGZHOU,China",42,GUANGZHOU|China,|US
+479,"Molenstraat, Oss, Netherlands",42,Molenstraat|Oss|Netherlands,|NL
+480,Sao Paulo,42,Sao|Paulo,
+481,"Seoul, Seoul, Korea",42,Seoul|Seoul|Korea,|KR
+482,"Singapore Office, Singapur",42,Singapore|Singapur,|SG
+483,"St. Leon-Rot, BW, DE, 68789",42,Leon Rot|BW|DE,|MX
+484,"Waterloo, ON, Canada",42,Waterloo|Canada,US
+485,"Zilina,Slovakia",42,Zilina|Slovakia,|SK
+486,"Berlin, BE, DE, 10178",41,Berlin|BE|DE,|DE
+487,"DE, RP, Kobern-Gondorf",41,DE|RP|Kobern Gondorf,
+488,"Eisenach,de",41,Eisenach,DE
+489,"Gerlingen,de",41,Gerlingen,DE
+490,"Gurugram,India",41,Gurugram|India,
+491,"Hanau, Deutschland",41,Hanau|Deutschland,|DE
+492,"Madrid, Madrid, Spain",41,Madrid|Madrid|Spain,|ES
+493,"New York, New York",41,New York|New York,US
+494,Seoul,41,Seoul,KR
+495,"ttSingapore, Singapore, Singaporett",41,ttSingapore|Singapore|Singaporett,|SG
+496,Ulm,41,Ulm,DE
+497,"Beograd,rs",40,Beograd,
+498,"Bogota,Colombia",40,Bogota|Colombia,CO
+499,"EMEA, Europe",40,EMEA|Europe,
+500,Grenzach-Wyhlen,40,Grenzach|Wyhlen,
+501,"IE, D, Dublin",40,D|Dublin,|IE
+502,"Kaunas,Lithuania",40,Kaunas|Lithuania,|LT
+503,"LU, Luxembourg",40,Luxembourg,LU
+504,New York City,40,New York City,US
+505,Nürnberg,40,Nürnberg,DE
+506,"San Francisco, California, United States",40,San Francisco|California|United States,|US
+507,"ttBoulder, Colorado, United Statestt",40,ttBoulder|Colorado|United Statestt,|BR
+508,"Vienna, Austria",40,Vienna|Austria,AT|
+509,"Weilimdorf,Deutschland",40,Weilimdorf|Deutschland,
+510,"Ambala, Indien",39,Ambala|Indien,|IN
+511,"Amsterdam,Amsterdam",39,Amsterdam|Amsterdam,NL
+512,Atlanta,39,Atlanta,US
+513,"City Place, San Jose, Costa Rica",39,City|Place|San Jose|Costa Rica,|FR|BR|US
+514,"DE, NW, Moenchengladbach",39,DE|NW|Moenchengladbach,
+515,"Hangzhou, Zhejiang, China",39,Hangzhou|Zhejiang|China,|CN|US
 516,MZ MZ,39,,
-517,"New York, NY, US",39,,
-518,Remote (Canada),39,,
-519,"San Francisco,us,Remote",39,,
-520,"Shenzhen, Guangdong",39,,
-521,"ttBrooklyn Center, Minnesota, United Statestt",39,,
-522,Wuppertal-Aprath,39,,
-523,"Beersel,Belgium",38,,
+517,"New York, NY, US",39,New York|NY|US,|US
+518,Remote (Canada),39,Remote|Canada,|US
+519,"San Francisco,us,Remote",39,San Francisco,US
+520,"Shenzhen, Guangdong",39,Shenzhen|Guangdong,|CN
+521,"ttBrooklyn Center, Minnesota, United Statestt",39,ttBrooklyn|Center|Minnesota|United Statestt,|US
+522,Wuppertal-Aprath,39,Wuppertal|Aprath,|DE
+523,"Beersel,Belgium",38,Beersel|Belgium,|US
 524,Bucharest,38,,
-525,"Buffalo Grove,United States of America",38,,
-526,"Copenhagen, Denmark",38,,
-527,"Grasbrunn,de",38,,
-528,"Grünheide (Mark), Brandenburg",38,,
-529,"Hangzhou, Zhejiang",38,,
-530,"Kaiseraugst,Schweiz",38,,
-531,"Nanjing,cn",38,,
-532,"nttttttttttttnttttttttttttIrvine, California, United Statesnttttttttttttnttttttttttttnttttttttttt",38,,
-533,"Phoenix, Vereinigte Staaten",38,,
-534,"Tokyo, 13, JP",38,,
-535,"Austin,United States of America",37,,
-536,Berlin-Charlottenburg,37,,
-537,"Chatillon,France",37,,
-538,"Germany,Remote",37,,
-539,"Gurugram, Haryana, India",37,,
-540,"Hoddesdon, Hertfordshire, United Kingdom",37,,
-541,Indianola,37,,
-542,"Madrid, Spain",37,,
-543,"Ovar,pt",37,,
-544,"Portland, Oregon",37,,
-545,"Roebuck,United States of America",37,,
-546,"São Paulo, Brazil",37,,
-547,"Seoul,Korea, Republic of",37,,
-548,Sydney,37,,
-549,Waltham-United States,37,,
-550,"Bangkok, Thailand",36,,
-551,"Beijing, China",36,,
-552,"Benguerir, Morocco",36,,
-553,"Chennai,India",36,,
-554,"DE, HH, Hamburg",36,,
-555,"Hamburg, Germany",36,,
-556,"Mexico City,México",36,,
-557,"Moscow,Russian Federation",36,,
-558,"München,de",36,,
-559,"nttttttttttttnttttttttttttHyderabad, Andhra Pradesh, Indianttttttttttttnttttttttttttnttttttttttt",36,,
-560,"Plymouth,us",36,,
-561,"Remote US,San Francisco,New York City",36,,
-562,"Saint-Denis Cedex,France",36,,
-563,"Taguig, Philippines",36,,
-564,"Antwerpen,be",35,,
-565,"Atlanta, GA, USA",35,,
-566,"Bangkok,Thailand",35,,
-567,Bonn,35,,
-568,"Chengdu, Sichuan",35,,
-569,Darmstadt,35,,
-570,"DE, BB, Schoenefeld",35,,
-571,"DE, HE, Wolfhagen",35,,
-572,"Karlsruhe, Stuttgart, Deutschland",35,,
-573,Myerstown,35,,
-574,"Nürnberg,de",35,,
-575,"Pudong District, Shanghai",35,,
-576,"Riad,Saudi Arabia",35,,
-577,"Rotterdam,Netherlands",35,,
-578,"ttTijuana, Baja California, Mexicott",35,,
-579,US,35,,
-580,Vance,35,,
-581,"Warszawa,Poland",35,,
-582,Wuppertal-Elberfeld,35,,
-583,"Basel, Schweiz",34,,
-584,Bergschenhoek,34,,
-585,"CA, ON, Toronto",34,,
-586,"Changsha,cn",34,,
-587,"Cour Michelet, Paris, France",34,,
-588,DE/Berlin,34,,
-589,"Madrid,Spain",34,,
-590,"Milan, Italy",34,,
-591,"München, Germany",34,,
-592,"Munich,Germany",34,,
-593,"Oslo, Oslo, Norway",34,,
-594,"Pittsburgh,us",34,,
-595,"Portland,us",34,,
-596,"Prague, Czech Republic",34,,
-597,"Remote,",34,,
-598,"Richmond Hill, Ontario",34,,
-599,"Solothurn/Zuchwil,ch",34,,
-600,"Tampa, Florida",34,,
-601,"Toronto, Canada",34,,
-602,"ttJuncos, Puerto Rico, United Statestt",34,,
-603,Warsaw,34,,
-604,"Wilsonville,United States of America",34,,
-605,Zurich,34,,
-606,Affalterbach,33,,
-607,Bangkok,33,,
-608,"DE, TH, Erfurt",33,,
-609,"Lollar,de",33,,
-610,"Los Angeles, CA",33,,
-611,"Mexico,Mexico",33,,
-612,"Milano MI,Italy",33,,
-613,"Mississauga, Kanada",33,,
-614,"Nürnberg,Germany",33,,
-615,"Orlando, Florida",33,,
-616,"Regus, Zurich, Switzerland",33,,
-617,"San Antonio, Texas, United States",33,,
-618,"Taipei,Taiwan",33,,
-619,"Tempe, Arizona",33,,
-620,"Tianjin,China",33,,
-621,"Warsaw, Mazowieckie, Poland",33,,
-622,"Austin, TX +1 mehr",32,,
-623,"Berlin, Frankfurt, London",32,,
-624,"Blaichach,de",32,,
-625,"Brussels, Belgium",32,,
-626,Chennai,32,,
-627,Denver,32,,
-628,"DE, NW, Werne",32,,
+525,"Buffalo Grove,United States of America",38,Buffalo|Grove|United States|America,|NL|US
+526,"Copenhagen, Denmark",38,Copenhagen|Denmark,DK|US
+527,"Grasbrunn,de",38,Grasbrunn,DE
+528,"Grünheide (Mark), Brandenburg",38,Grünheide|Mark|Brandenburg,DE|US
+529,"Hangzhou, Zhejiang",38,Hangzhou|Zhejiang,|CN
+530,"Kaiseraugst,Schweiz",38,Kaiseraugst|Schweiz,CH|
+531,"Nanjing,cn",38,Nanjing,CN
+532,"nttttttttttttnttttttttttttIrvine, California, United Statesnttttttttttttnttttttttttttnttttttttttt",38,nttttttttttttnttttttttttttIrvine|California|United Statesnttttttttttttnttttttttttttnttttttttttt,|US
+533,"Phoenix, Vereinigte Staaten",38,Phoenix|Vereinigte Staaten,|US
+534,"Tokyo, 13, JP",38,Tokyo|JP,|JP
+535,"Austin,United States of America",37,Austin|United States|America,|NL|US
+536,Berlin-Charlottenburg,37,Berlin,DE
+537,"Chatillon,France",37,Chatillon|France,|BE
+538,"Germany,Remote",37,Germany|Remote,
+539,"Gurugram, Haryana, India",37,Gurugram|Haryana|India,
+540,"Hoddesdon, Hertfordshire, United Kingdom",37,Hoddesdon|Hertfordshire|United Kingdom,|GB
+541,Indianola,37,Indianola,US
+542,"Madrid, Spain",37,Madrid|Spain,|ES
+543,"Ovar,pt",37,Ovar,
+544,"Portland, Oregon",37,Portland|Oregon,US
+545,"Roebuck,United States of America",37,Roebuck|United States|America,|NL|US
+546,"São Paulo, Brazil",37,São|Paulo|Brazil,|US
+547,"Seoul,Korea, Republic of",37,Seoul|Korea|Republic,|KR|US
+548,Sydney,37,Sydney,AU
+549,Waltham-United States,37,Waltham|United States,|US
+550,"Bangkok, Thailand",36,Bangkok|Thailand,|TH
+551,"Beijing, China",36,Beijing|China,CN|US
+552,"Benguerir, Morocco",36,Benguerir|Morocco,|US
+553,"Chennai,India",36,Chennai|India,|IN
+554,"DE, HH, Hamburg",36,DE|HH|Hamburg,|DE
+555,"Hamburg, Germany",36,Hamburg|Germany,|DE
+556,"Mexico City,México",36,Mexico City|México,|MX
+557,"Moscow,Russian Federation",36,Moscow|Russian,|RU
+558,"München,de",36,München,
+559,"nttttttttttttnttttttttttttHyderabad, Andhra Pradesh, Indianttttttttttttnttttttttttttnttttttttttt",36,Andhra Pradesh|Indianttttttttttttnttttttttttttnttttttttttt,
+560,"Plymouth,us",36,Plymouth,GB
+561,"Remote US,San Francisco,New York City",36,Remote|US|San Francisco|New York City,|US
+562,"Saint-Denis Cedex,France",36,Saint|Denis Cedex|France,
+563,"Taguig, Philippines",36,Taguig|Philippines,|PH
+564,"Antwerpen,be",35,Antwerpen,BE
+565,"Atlanta, GA, USA",35,Atlanta|GA|USA,|US
+566,"Bangkok,Thailand",35,Bangkok|Thailand,|TH
+567,Bonn,35,Bonn,DE
+568,"Chengdu, Sichuan",35,Chengdu|Sichuan,|CN
+569,Darmstadt,35,Darmstadt,DE
+570,"DE, BB, Schoenefeld",35,DE|BB|Schoenefeld,
+571,"DE, HE, Wolfhagen",35,DE|Wolfhagen,|DE
+572,"Karlsruhe, Stuttgart, Deutschland",35,Karlsruhe|Stuttgart|Deutschland,|DE
+573,Myerstown,35,Myerstown,US
+574,"Nürnberg,de",35,Nürnberg,DE
+575,"Pudong District, Shanghai",35,Pudong District|Shanghai,|CN
+576,"Riad,Saudi Arabia",35,Riad|Saudi Arabia,
+577,"Rotterdam,Netherlands",35,Rotterdam|Netherlands,|NL
+578,"ttTijuana, Baja California, Mexicott",35,ttTijuana|Baja California|Mexicott,|US
+579,US,35,US,
+580,Vance,35,Vance,US
+581,"Warszawa,Poland",35,Warszawa|Poland,|US
+582,Wuppertal-Elberfeld,35,Wuppertal|Elberfeld,DE|US
+583,"Basel, Schweiz",34,Basel|Schweiz,CH|
+584,Bergschenhoek,34,Bergschenhoek,NL
+585,"CA, ON, Toronto",34,Toronto,CA
+586,"Changsha,cn",34,Changsha,CN
+587,"Cour Michelet, Paris, France",34,Paris|France,|FR
+588,DE/Berlin,34,DE|Berlin,|DE
+589,"Madrid,Spain",34,Madrid|Spain,|ES
+590,"Milan, Italy",34,Milan|Italy,IT|US
+591,"München, Germany",34,München|Germany,
+592,"Munich,Germany",34,Munich|Germany,|DE
+593,"Oslo, Oslo, Norway",34,Oslo|Oslo|Norway,NO|US
+594,"Pittsburgh,us",34,Pittsburgh,US
+595,"Portland,us",34,Portland,US
+596,"Prague, Czech Republic",34,Prague|Czech Republic,CZ|US
+597,"Remote,",34,Remote,
+598,"Richmond Hill, Ontario",34,Richmond|Hill|Ontario,US
+599,"Solothurn/Zuchwil,ch",34,Solothurn|Zuchwil,CH
+600,"Tampa, Florida",34,Tampa|Florida,UY|US
+601,"Toronto, Canada",34,Toronto|Canada,CA|US
+602,"ttJuncos, Puerto Rico, United Statestt",34,ttJuncos|Puerto Rico|United Statestt,|AR
+603,Warsaw,34,Warsaw,PL
+604,"Wilsonville,United States of America",34,Wilsonville|United States|America,|NL|US
+605,Zurich,34,Zurich,CH
+606,Affalterbach,33,Affalterbach,DE
+607,Bangkok,33,Bangkok,TH
+608,"DE, TH, Erfurt",33,DE|TH|Erfurt,|DE
+609,"Lollar,de",33,Lollar,DE
+610,"Los Angeles, CA",33,Los Angeles|CA,|US
+611,"Mexico,Mexico",33,Mexico|Mexico,US
+612,"Milano MI,Italy",33,Milano|MI|Italy,|US
+613,"Mississauga, Kanada",33,Mississauga|Kanada,|CA
+614,"Nürnberg,Germany",33,Nürnberg|Germany,|DE
+615,"Orlando, Florida",33,Orlando|Florida,UY|US
+616,"Regus, Zurich, Switzerland",33,Regus|Zurich|Switzerland,|CH
+617,"San Antonio, Texas, United States",33,San|Antonio|Texas|United States,|ML|AU
+618,"Taipei,Taiwan",33,Taipei|Taiwan,|TW
+619,"Tempe, Arizona",33,Tempe|Arizona,AR|US
+620,"Tianjin,China",33,Tianjin|China,CN|US
+621,"Warsaw, Mazowieckie, Poland",33,Warsaw|Mazowieckie|Poland,|US|PL
+622,"Austin, TX +1 mehr",32,Austin,US
+623,"Berlin, Frankfurt, London",32,Berlin|Frankfurt|London,DE|GB
+624,"Blaichach,de",32,Blaichach,DE
+625,"Brussels, Belgium",32,Brussels|Belgium,BE|US
+626,Chennai,32,Chennai,IN
+627,Denver,32,Denver,US
+628,"DE, NW, Werne",32,DE|NW|Werne,|DE
 629,"Eindhoven,nl",32,,
-630,"Hamburg,Germany",32,,
-631,"Houston, Texas",32,,
-632,"Houston,United States of America",32,,
-633,"IN, KA, Bengaluru",32,,
-634,Leinfelden-Echterdingen,32,,
-635,"London, UK,Dublin, Ireland",32,,
-636,"Madrid,es",32,,
-637,"Melbourne, Victoria, Australia",32,,
-638,"Milpitas, CA",32,,
-639,"Milpitas, California",32,,
-640,"Mississauga, Ontario, Canada",32,,
-641,"Mountain View, CA, USA,San Francisco, CA, USA",32,,
-642,Noida,32,,
-643,"Prüm,",32,,
-644,Rastatt,32,,
-645,"Schwerin, Deutschland",32,,
-646,"Taunton, Massachusetts",32,,
-647,"ttCaesarea, Haifa, Israeltt",32,,
-648,"ttLittleton, Massachusetts, United Statestt",32,,
-649,US - New York City,32,,
-650,"Vancouver, BC, CA",32,,
-651,"Wien, Greater Vienna area, Austria",32,,
-652,"Zug,Switzerland",32,,
-653,"Ann Arbor, Michigan, US",31,,
-654,"Atlanta,us, Remote",31,,
-655,"Biomedical Grove, Singapore, Singapore",31,,
-656,"Blaj,ro",31,,
-657,"CHENGDU,China",31,,
-658,"DE, NW, Krefeld",31,,
-659,Frankfurt,31,,
-660,"Hawthorne, California",31,,
-661,"Herndon, VA, US, 20171",31,,
-662,"Irving,United States of America",31,,
-663,"Kiel, Deutschland",31,,
-664,"Mexico City, CDMX, Mexico",31,,
-665,"Oberhausen, Deutschland",31,,
-666,"Paris, Paris, France",31,,
-667,"San Diego, California",31,,
-668,"Seattle, WA, USA",31,,
-669,"ttHeerlen, Limburg, Netherlandstt",31,,
-670,"US, TN, Nashville",31,,
-671,"Vacaville,United States of America",31,,
-672,Wien,31,,
-673,Wörth,31,,
-674,"Atlanta,Vereinigte Staaten von Amerika",30,,
-675,"El Segundo, CA",30,,
-676,Garching bei München,30,,
-677,Gurgaon,30,,
-678,"Hillsboro,United States of America",30,,
-679,"IT, Virtual Location - Italy",30,,
+630,"Hamburg,Germany",32,Hamburg|Germany,|DE
+631,"Houston, Texas",32,Houston|Texas,AU|US
+632,"Houston,United States of America",32,Houston|United States|America,|NL|US
+633,"IN, KA, Bengaluru",32,KA|Bengaluru,|IN
+634,Leinfelden-Echterdingen,32,Leinfelden,
+635,"London, UK,Dublin, Ireland",32,London|UK|Dublin|Ireland,|IE|GB|US
+636,"Madrid,es",32,Madrid,ES
+637,"Melbourne, Victoria, Australia",32,Melbourne|Victoria|Australia,|CA|AU
+638,"Milpitas, CA",32,CA,
+639,"Milpitas, California",32,California,US
+640,"Mississauga, Ontario, Canada",32,Mississauga|Ontario|Canada,CA|US
+641,"Mountain View, CA, USA,San Francisco, CA, USA",32,Mountain View|CA|USA|San Francisco|CA|USA,|US
+642,Noida,32,Noida,IN
+643,"Prüm,",32,Prüm,DE
+644,Rastatt,32,Rastatt,DE
+645,"Schwerin, Deutschland",32,Schwerin|Deutschland,|DE
+646,"Taunton, Massachusetts",32,Taunton|Massachusetts,|US
+647,"ttCaesarea, Haifa, Israeltt",32,ttCaesarea|Haifa|Israeltt,|IL
+648,"ttLittleton, Massachusetts, United Statestt",32,ttLittleton|Massachusetts|United Statestt,
+649,US - New York City,32,US|New York City,|US
+650,"Vancouver, BC, CA",32,Vancouver|BC|CA,|CA
+651,"Wien, Greater Vienna area, Austria",32,Wien|Greater Vienna|Austria,|AT
+652,"Zug,Switzerland",32,Zug|Switzerland,CH|
+653,"Ann Arbor, Michigan, US",31,Ann|Arbor|Michigan|US,
+654,"Atlanta,us, Remote",31,Atlanta,US
+655,"Biomedical Grove, Singapore, Singapore",31,Singapore|Singapore,SG
+656,"Blaj,ro",31,Blaj,RO
+657,"CHENGDU,China",31,CHENGDU|China,|US
+658,"DE, NW, Krefeld",31,DE|NW|Krefeld,|DE
+659,Frankfurt,31,Frankfurt,DE
+660,"Hawthorne, California",31,Hawthorne|California,US
+661,"Herndon, VA, US, 20171",31,Herndon|VA|US,|US
+662,"Irving,United States of America",31,Irving|United States|America,|NL|US
+663,"Kiel, Deutschland",31,Kiel|Deutschland,|DE
+664,"Mexico City, CDMX, Mexico",31,Mexico City|CDMX|Mexico,|MX|US
+665,"Oberhausen, Deutschland",31,Oberhausen|Deutschland,|DE
+666,"Paris, Paris, France",31,Paris|Paris|France,|FR
+667,"San Diego, California",31,San Diego|California,US
+668,"Seattle, WA, USA",31,Seattle|WA|USA,|US
+669,"ttHeerlen, Limburg, Netherlandstt",31,ttHeerlen|Limburg|Netherlandstt,
+670,"US, TN, Nashville",31,US|TN|Nashville,|US
+671,"Vacaville,United States of America",31,Vacaville|United States|America,|NL|US
+672,Wien,31,Wien,
+673,Wörth,31,Wörth,DE
+674,"Atlanta,Vereinigte Staaten von Amerika",30,Atlanta|Vereinigte Staaten,|US
+675,"El Segundo, CA",30,CA,
+676,Garching bei München,30,München,
+677,Gurgaon,30,Gurgaon,IN
+678,"Hillsboro,United States of America",30,Hillsboro|United States|America,|NL|US
+679,"IT, Virtual Location - Italy",30,Virtual Location Italy,
 680,", Liaoning",30,,
-681,"London,",30,,
+681,"London,",30,London,GB
 682,Makati,30,,
-683,"Maklár,hu",30,,
-684,Monheim,30,,
-685,"Münster, Deutschland",30,,
-686,"Nairobi, Nairobi City, Kenya",30,,
-687,"New York,us, Remote",30,,
-688,"nttttttttttttnttttttttttttTempe, Arizona, United Statesnttttttttttttnttttttttttttnttttttttttt",30,,
-689,"Saint Laurent QC,Canada",30,,
-690,"Thane,India",30,,
-691,"Toronto, Ontario",30,,
-692,"ttJacksonville, Florida, United Statestt",30,,
-693,"ttLouisville, Colorado, United Statestt",30,,
-694,"Villingen-Schwenningen,Germany",30,,
-695,Weimar,30,,
-696,"Xian,cn",30,,
-697,Алматы (Казахстан),30,,
-698,"Auburn Hills, MI,United States",29,,
-699,"Bangalore,in",29,,
-700,"Cyberport, Other, Hong Kong SAR",29,,
-701,"Debrecen,Hungary",29,,
-702,"DE, BW, Mannheim",29,,
-703,"Denver, Colorado",29,,
-704,"Essen,Deutschland",29,,
+683,"Maklár,hu",30,Maklár,HU
+684,Monheim,30,Monheim,DE
+685,"Münster, Deutschland",30,Münster|Deutschland,|DE
+686,"Nairobi, Nairobi City, Kenya",30,Nairobi|Nairobi City|Kenya,|KE
+687,"New York,us, Remote",30,New York,US
+688,"nttttttttttttnttttttttttttTempe, Arizona, United Statesnttttttttttttnttttttttttttnttttttttttt",30,Arizona|United Statesnttttttttttttnttttttttttttnttttttttttt,|AR
+689,"Saint Laurent QC,Canada",30,Saint|Laurent QC|Canada,|US
+690,"Thane,India",30,Thane|India,|IN
+691,"Toronto, Ontario",30,Toronto|Ontario,CA|US
+692,"ttJacksonville, Florida, United Statestt",30,ttJacksonville|Florida|United Statestt,|UY
+693,"ttLouisville, Colorado, United Statestt",30,ttLouisville|Colorado|United Statestt,|BR
+694,"Villingen-Schwenningen,Germany",30,Villingen Schwenningen|Germany,
+695,Weimar,30,Weimar,DE
+696,"Xian,cn",30,Xian,CN
+697,Алматы (Казахстан),30,Алматы|Казахстан,
+698,"Auburn Hills, MI,United States",29,Auburn|Hills|MI|United States,|US
+699,"Bangalore,in",29,Bangalore,IN
+700,"Cyberport, Other, Hong Kong SAR",29,Cyberport|Other|Hong Kong,|HK
+701,"Debrecen,Hungary",29,Debrecen|Hungary,|HU
+702,"DE, BW, Mannheim",29,DE|BW|Mannheim,|DE
+703,"Denver, Colorado",29,Denver|Colorado,BR|US
+704,"Essen,Deutschland",29,Essen|Deutschland,|DE
 705,GB/Goodwood,29,,
-706,"Hallein,at",29,,
-707,"Hamburg, Hannover, Deutschland",29,,
-708,"Hong Kong,Hong Kong",29,,
-709,"Inwood, Vereinigte Staaten",29,,
-710,"Lisboa,pt",29,,
-711,"Lisbon, Portugal",29,,
-712,"Los Angeles, CA, USA",29,,
-713,Mumbai,29,,
-714,"Phoenix, Arizona, United States",29,,
-715,"Redmond, Washington, United States,Atlanta, Georgia, United States",29,,
-716,"Sunnyvale, CA, USA,San Francisco, CA, USA",29,,
-717,"ttMemphis, Tennessee, United Statestt",29,,
-718,"Urbana Centro, Munro, Vincente Lopez,, Argentina",29,,
-719,"Wien,at",29,,
-720,", Zhejiang",29,,
-721,"70 Tuas West Dr, Singapore, Singapore",28,,
-722,"Aguascalientes,Mexico",28,,
-723,"Ansbach,de",28,,
-724,"Austin, TX, US",28,,
-725,"BE, Brussels",28,,
-726,"Boulogne-Billancourt,France",28,,
+706,"Hallein,at",29,Hallein,AT
+707,"Hamburg, Hannover, Deutschland",29,Hamburg|Hannover|Deutschland,|DE
+708,"Hong Kong,Hong Kong",29,Hong Kong|Hong Kong,HK
+709,"Inwood, Vereinigte Staaten",29,Inwood|Vereinigte Staaten,|US
+710,"Lisboa,pt",29,Lisboa,
+711,"Lisbon, Portugal",29,Lisbon|Portugal,|PT
+712,"Los Angeles, CA, USA",29,Los Angeles|CA|USA,|US
+713,Mumbai,29,Mumbai,IN
+714,"Phoenix, Arizona, United States",29,Phoenix|Arizona|United States,|AR|US
+715,"Redmond, Washington, United States,Atlanta, Georgia, United States",29,Redmond|Washington|United States|Atlanta|Georgia|United States,|US
+716,"Sunnyvale, CA, USA,San Francisco, CA, USA",29,Sunnyvale|CA|USA|San Francisco|CA|USA,|US
+717,"ttMemphis, Tennessee, United Statestt",29,Tennessee|United Statestt,|US
+718,"Urbana Centro, Munro, Vincente Lopez,, Argentina",29,Urbana|Centro|Munro|Vincente Lopez|Argentina,|AR|UY|US
+719,"Wien,at",29,Wien,
+720,", Zhejiang",29,Zhejiang,
+721,"70 Tuas West Dr, Singapore, Singapore",28,Singapore|Singapore,SG
+722,"Aguascalientes,Mexico",28,Mexico,US
+723,"Ansbach,de",28,Ansbach,DE
+724,"Austin, TX, US",28,Austin|TX|US,|US
+725,"BE, Brussels",28,Brussels,BE
+726,"Boulogne-Billancourt,France",28,Boulogne|Billancourt|France,|FR
 727,Budapest,28,,
-728,"Buenos Aires, Argentina",28,,
-729,"Cambridge, Cambridgeshire, United Kingdom",28,,
+728,"Buenos Aires, Argentina",28,Buenos|Aires|Argentina,
+729,"Cambridge, Cambridgeshire, United Kingdom",28,Cambridge|Cambridgeshire|United Kingdom,|GB
 730,GB/Oxfordshire,28,,
-731,"Hangzhou,中国",28,,
-732,"Hemaraj Eastern Seaboard Industrial Estate,th",28,,
-733,"Melbourne,au",28,,
-734,"Minneapolis, Minnesota, United States",28,,
-735,"Morganton, NC,United States",28,,
-736,Nitra,28,,
-737,"Norcross,United States of America",28,,
-738,"Osnabrück, Deutschland",28,,
-739,"Other, Other, Singapore",28,,
-740,Pune,28,,
+731,"Hangzhou,中国",28,Hangzhou|中国,|CN
+732,"Hemaraj Eastern Seaboard Industrial Estate,th",28,Hemaraj|Eastern Seaboard Industrial Estate,
+733,"Melbourne,au",28,Melbourne,AU
+734,"Minneapolis, Minnesota, United States",28,Minneapolis|Minnesota|United States,|US
+735,"Morganton, NC,United States",28,Morganton|NC|United States,|US
+736,Nitra,28,Nitra,SK
+737,"Norcross,United States of America",28,Norcross|United States|America,|NL|US
+738,"Osnabrück, Deutschland",28,Osnabrück|Deutschland,|DE
+739,"Other, Other, Singapore",28,Other|Singapore,|SG
+740,Pune,28,Pune,IN
 741,Salzgitter,28,,
-742,"San Francisco, More...",28,,
-743,"San Luis Potosí,mx",28,,
-744,"Seoul Square, Seoul, Korea, Republic of",28,,
-745,"Shippensburg, Vereinigte Staaten",28,,
-746,"Sofia, Engineering Center Sofia,bg",28,,
-747,Toronto,28,,
-748,"Trier, Deutschland",28,,
+742,"San Francisco, More...",28,San Francisco,US
+743,"San Luis Potosí,mx",28,San|Luis Potosí,ML|BO
+744,"Seoul Square, Seoul, Korea, Republic of",28,Seoul|Square|Seoul|Korea|Republic,|KR|US
+745,"Shippensburg, Vereinigte Staaten",28,Shippensburg|Vereinigte Staaten,|US
+746,"Sofia, Engineering Center Sofia,bg",28,Sofia,BG
+747,Toronto,28,Toronto,CA
+748,"Trier, Deutschland",28,Trier|Deutschland,|DE
 749,TR TR,28,,
-750,"ttBeijing, Chinatt",28,,
-751,"ttNanakramguda, Hyderabad, Indiatt",28,,
-752,"US, CA, Santa Monica",28,,
-753,"Waiblingen,de",28,,
+750,"ttBeijing, Chinatt",28,Chinatt,
+751,"ttNanakramguda, Hyderabad, Indiatt",28,ttNanakramguda|Hyderabad|Indiatt,|IN
+752,"US, CA, Santa Monica",28,US|CA|Santa Monica,|US
+753,"Waiblingen,de",28,Waiblingen,DE
 754,"Bangalore, IN - India
     
 
     Bangalore, IN - India
     
 
-    Bangalore, IN - India",27,,
-755,"Belfast, United Kingdom",27,,
-756,"Brinny, Cork, Ireland",27,,
-757,"Charlotte, North Carolina, United States,Las Colinas, Texas, United States",27,,
-758,Ciudad de México,27,,
-759,"DE, MV, Rostock",27,,
-760,"Dublin, Ireland,London, UK",27,,
-761,"Fremont,United States of America",27,,
-762,"Hillsboro, Vereinigte Staaten",27,,
-763,"Hoffman Estates,United States of America",27,,
-764,"Jundiai-SP,Brazil",27,,
-765,"Kornwestheim, Deutschland",27,,
-766,"Milan, Metropolitan City of Milan, Italy",27,,
-767,"Mishawaka,United States of America",27,,
-768,"Mountain View, California, United States",27,,
-769,"Nanjing, Jiangsu",27,,
-770,"Noida, Uttar Pradesh, India",27,,
-771,"nttttttttttttnttttttttttttTijuana, Baja California, Mexiconttttttttttttnttttttttttttnttttttttttt",27,,
-772,Remote (United States or Canada),27,,
-773,"Scottsdale,us",27,,
-774,"ttBogotá, Bogota, Colombiatt",27,,
-775,ttUnited Statestt,27,,
-776,"United Kingdom,United Kingdom",27,,
-777,"Amsterdam,Netherlands",26,,
-778,"Charlotte, North Carolina",26,,
-779,"Clinton, MS,United States",26,,
-780,"Den Haag,Netherlands",26,,
-781,"DE, NI, Wunstorf",26,,
-782,"DE, NW, Dusseldorf",26,,
-783,Detroit,26,,
-784,"Eger,hu",26,,
-785,"Gurgaon, Haryana, India",26,,
-786,Helsinki (Finland),26,,
-787,"Karlsruhe,Germany",26,,
-788,Lahr/Schwarzwald,26,,
-789,"Milton Keynes, Buckinghamshire, United Kingdom",26,,
-790,"Minden, Deutschland",26,,
-791,"Mt. Vernon, IL,United States",26,,
-792,"NANJING,China",26,,
-793,"Norwood,United States of America",26,,
-794,"Oeiras, Lisboa, Portugal",26,,
-795,Porto,26,,
-796,Prague-Czech Republic,26,,
-797,São José dos Campos,26,,
-798,"Stuttgart,Deutschland",26,,
-799,Tokyo-Japan,26,,
-800,"Tokyo,jp",26,,
-801,"Toronto, ON, Canada",26,,
-802,"ttBoston, Massachusetts, United Statestt",26,,
-803,"ttChangzhou, Jiangsu, Chinatt",26,,
-804,Wroclaw-Poland,26,,
-805,"Abstatt,de",25,,
-806,"Boston,United States of America",25,,
-807,"Chemnitz, Deutschland",25,,
-808,"DE, BY, Eggolsheim",25,,
-809,"DE, HE, Gernsheim",25,,
-810,"DE, RP, Witten",25,,
-811,"Florence, Vereinigte Staaten",25,,
-812,Germany - Frankfurt,25,,
-813,"Glen Allen, Virginia",25,,
-814,"Ingolstadt, Deutschland",25,,
-815,"Issy-les-Moulineaux,fr",25,,
-816,"JP, 13, Meguro",25,,
-817,"Karlsruhe,de",25,,
-818,"Milano, IT",25,,
-819,"Milano,Italy",25,,
-820,"Newport News, VA,United States",25,,
-821,"New Windsor, New York",25,,
-822,"New York,United States of America",25,,
-823,"Noida,India",25,,
-824,"Orlando,United States of America",25,,
-825,Portland,25,,
-826,"San Francisco, CA, USA,Santa Cruz, CA, USA",25,,
-827,San Francisco or New York or Remote US,25,,
-828,"San Francisco,Seattle",25,,
-829,"SG, Singapore",25,,
-830,Slovakia - Bratislava,25,,
-831,"Sofia, 23, BG, 1000",25,,
-832,"ttRice Creek, Minnesota, United Statestt",25,,
-833,"ttSanta Rosa, California, United Statestt",25,,
-834,"US, MA, Cambridge",25,,
-835,"Vienna, Virginia",25,,
+    Bangalore, IN - India",27,Bangalore|India Bangalore|India Bangalore|India,|IN
+755,"Belfast, United Kingdom",27,Belfast|United Kingdom,|GB
+756,"Brinny, Cork, Ireland",27,Brinny|Cork|Ireland,|IE|US
+757,"Charlotte, North Carolina, United States,Las Colinas, Texas, United States",27,Charlotte|North Carolina|United States|Las Colinas|Texas|United States,|BR|AU|US
+758,Ciudad de México,27,Ciudad|México,
+759,"DE, MV, Rostock",27,DE|MV|Rostock,|DE
+760,"Dublin, Ireland,London, UK",27,Dublin|Ireland|London|UK,|IE|GB|US
+761,"Fremont,United States of America",27,Fremont|United States|America,|NL|US
+762,"Hillsboro, Vereinigte Staaten",27,Hillsboro|Vereinigte Staaten,|US
+763,"Hoffman Estates,United States of America",27,Hoffman|Estates|United States|America,|NL|US
+764,"Jundiai-SP,Brazil",27,Jundiai|SP|Brazil,|BR|US
+765,"Kornwestheim, Deutschland",27,Kornwestheim|Deutschland,|DE
+766,"Milan, Metropolitan City of Milan, Italy",27,Milan|Metropolitan City|Milan|Italy,|IT|US
+767,"Mishawaka,United States of America",27,Mishawaka|United States|America,|NL|US
+768,"Mountain View, California, United States",27,Mountain View|California|United States,|US
+769,"Nanjing, Jiangsu",27,Nanjing|Jiangsu,|CN
+770,"Noida, Uttar Pradesh, India",27,Noida|Uttar Pradesh|India,|IN
+771,"nttttttttttttnttttttttttttTijuana, Baja California, Mexiconttttttttttttnttttttttttttnttttttttttt",27,nttttttttttttnttttttttttttTijuana|Baja California|Mexiconttttttttttttnttttttttttttnttttttttttt,|US
+772,Remote (United States or Canada),27,Remote|United States|Canada,|US
+773,"Scottsdale,us",27,Scottsdale,US
+774,"ttBogotá, Bogota, Colombiatt",27,ttBogotá|Bogota|Colombiatt,|CO
+775,ttUnited Statestt,27,Statestt,
+776,"United Kingdom,United Kingdom",27,United Kingdom|United Kingdom,
+777,"Amsterdam,Netherlands",26,Amsterdam|Netherlands,|NL
+778,"Charlotte, North Carolina",26,Charlotte|North Carolina,|US
+779,"Clinton, MS,United States",26,Clinton|United States,|US
+780,"Den Haag,Netherlands",26,Den|Haag|Netherlands,|AT
+781,"DE, NI, Wunstorf",26,DE|NI|Wunstorf,|DE
+782,"DE, NW, Dusseldorf",26,DE|NW|Dusseldorf,|DE
+783,Detroit,26,Detroit,US
+784,"Eger,hu",26,Eger,HU
+785,"Gurgaon, Haryana, India",26,Gurgaon|Haryana|India,|IN
+786,Helsinki (Finland),26,Helsinki|Finland,FI|US
+787,"Karlsruhe,Germany",26,Karlsruhe|Germany,|DE
+788,Lahr/Schwarzwald,26,Lahr|Schwarzwald,|DE
+789,"Milton Keynes, Buckinghamshire, United Kingdom",26,Milton|Keynes|Buckinghamshire|United Kingdom,|US
+790,"Minden, Deutschland",26,Minden|Deutschland,|US
+791,"Mt. Vernon, IL,United States",26,IL|United States,
+792,"NANJING,China",26,China,US
+793,"Norwood,United States of America",26,Norwood|United States|America,|NL|US
+794,"Oeiras, Lisboa, Portugal",26,Oeiras|Lisboa|Portugal,|BR
+795,Porto,26,Porto,PT
+796,Prague-Czech Republic,26,Prague|Czech Republic,CZ|US
+797,São José dos Campos,26,São|José|Campos,|BR
+798,"Stuttgart,Deutschland",26,Stuttgart|Deutschland,|DE
+799,Tokyo-Japan,26,Tokyo|Japan,|JP
+800,"Tokyo,jp",26,Tokyo,JP
+801,"Toronto, ON, Canada",26,Toronto|Canada,CA|US
+802,"ttBoston, Massachusetts, United Statestt",26,ttBoston|Massachusetts|United Statestt,
+803,"ttChangzhou, Jiangsu, Chinatt",26,ttChangzhou|Jiangsu|Chinatt,
+804,Wroclaw-Poland,26,Wroclaw|Poland,US|PL
+805,"Abstatt,de",25,Abstatt,DE
+806,"Boston,United States of America",25,Boston|United States|America,|NL|US
+807,"Chemnitz, Deutschland",25,Chemnitz|Deutschland,|DE
+808,"DE, BY, Eggolsheim",25,DE|Eggolsheim,|DE
+809,"DE, HE, Gernsheim",25,DE|Gernsheim,|DE
+810,"DE, RP, Witten",25,DE|RP|Witten,|DE
+811,"Florence, Vereinigte Staaten",25,Florence|Vereinigte Staaten,|IT
+812,Germany - Frankfurt,25,Germany|Frankfurt,|DE
+813,"Glen Allen, Virginia",25,Glen|Allen|Virginia,US
+814,"Ingolstadt, Deutschland",25,Ingolstadt|Deutschland,|DE
+815,"Issy-les-Moulineaux,fr",25,Issy|Moulineaux,|FR
+816,"JP, 13, Meguro",25,Meguro,
+817,"Karlsruhe,de",25,Karlsruhe,DE
+818,"Milano, IT",25,Milano,US
+819,"Milano,Italy",25,Milano|Italy,US
+820,"Newport News, VA,United States",25,Newport|News|VA|United States,|US
+821,"New Windsor, New York",25,New Windsor|New York,US
+822,"New York,United States of America",25,New York|United States|America,|NL|US
+823,"Noida,India",25,Noida|India,|IN
+824,"Orlando,United States of America",25,Orlando|United States|America,|NL|US
+825,Portland,25,Portland,US
+826,"San Francisco, CA, USA,Santa Cruz, CA, USA",25,San Francisco|CA|USA|Santa Cruz|CA|USA,|BO|US
+827,San Francisco or New York or Remote US,25,San|Francisco|New York|Remote US,|ML|US
+828,"San Francisco,Seattle",25,San Francisco|Seattle,US
+829,"SG, Singapore",25,Singapore,SG
+830,Slovakia - Bratislava,25,Slovakia|Bratislava,|SK
+831,"Sofia, 23, BG, 1000",25,Sofia|BG,|BG
+832,"ttRice Creek, Minnesota, United Statestt",25,ttRice|Creek|Minnesota|United Statestt,
+833,"ttSanta Rosa, California, United Statestt",25,ttSanta|Rosa|California|United Statestt,|US
+834,"US, MA, Cambridge",25,US|MA|Cambridge,|GB
+835,"Vienna, Virginia",25,Vienna|Virginia,AT|US
 836,Wanthong,25,,
-837,"West Point, Pennsylvania, United States of America",25,,
+837,"West Point, Pennsylvania, United States of America",25,West Point|Pennsylvania|United States|America,|NL|US
 838,",",24,,
-839,"Baltimore, Maryland, United States",24,,
+839,"Baltimore, Maryland, United States",24,Baltimore|Maryland|United States,|AU|US
 840,Bergkamen,24,,
-841,"Berlin,Deutschland",24,,
-842,"Carlow, Ireland",24,,
-843,"Chicago, Illinois, United States",24,,
-844,"DE, BW, Tuebingen",24,,
-845,"Hayward, California",24,,
-846,"IN, TN, Chennai",24,,
-847,"Kusterdingen,de",24,,
-848,"Los Angeles, California",24,,
-849,"Milwaukee, Wisconsin",24,,
-850,"Mountain View, CA, USA,New York, NY, USA",24,,
-851,München/Gilching/Hamburg,24,,
-852,Munich Office,24,,
+841,"Berlin,Deutschland",24,Berlin|Deutschland,|DE
+842,"Carlow, Ireland",24,Carlow|Ireland,IE|US
+843,"Chicago, Illinois, United States",24,Chicago|Illinois|United States,|US
+844,"DE, BW, Tuebingen",24,DE|BW|Tuebingen,
+845,"Hayward, California",24,Hayward|California,US
+846,"IN, TN, Chennai",24,TN|Chennai,|IN
+847,"Kusterdingen,de",24,Kusterdingen,
+848,"Los Angeles, California",24,Los Angeles|California,US
+849,"Milwaukee, Wisconsin",24,Milwaukee|Wisconsin,|US
+850,"Mountain View, CA, USA,New York, NY, USA",24,Mountain View|CA|USA|New York|NY|USA,|US
+851,München/Gilching/Hamburg,24,München,
+852,Munich Office,24,Munich,DE
 853,MX/SanLuisPotosi-SanLuisPotosi,24,,
-854,"Portland, Oregon, United States",24,,
-855,"Reston,United States of America",24,,
-856,"San Francisco,Remote US",24,,
-857,San Jose-Costa Rica,24,,
-858,"Seattle, Washington, US",24,,
-859,"Shanghai, 上海",24,,
-860,"Šimanovci,rs",24,,
-861,"Sunnyvale,us",24,,
-862,"ttLos Angeles, California, United Statestt",24,,
-863,"Wallisellen, Zürich, Switzerland",24,,
-864,Woodland,24,,
-865,"21 Tuas South, Singapore, Singapore",23,,
-866,"Bangkok,th",23,,
-867,"Beijing,cn",23,,
-868,"Birmingham,United Kingdom",23,,
-869,"Bursa,tr",23,,
-870,"Cambridge, Massachusetts, United States",23,,
-871,"Cape Town,South Africa",23,,
-872,"Chicago, Illinois",23,,
-873,"Chippenham,United Kingdom",23,,
-874,"DE, NI, Cloppenburg",23,,
-875,"DE, NI, Garbsen",23,,
-876,Deutschland,23,,
-877,"Elchingen,de",23,,
-878,"Espoo, Finland",23,,
-879,"Frankfurt am Main,de",23,,
-880,"IL, Tel Aviv",23,,
-881,in Hamburg,23,,
-882,"Issaquah,United States of America",23,,
-883,"Livermore, California",23,,
-884,"Meylan,France",23,,
-885,"Moscow, Russia",23,,
-886,"nttttttttttttnttttttttttttNorth Haven, Connecticut, United Statesnttttttttttttnttttttttttttnttttttttttt",23,,
-887,"Oakland,us",23,,
-888,"Oceanside,United States of America",23,,
-889,"Ottawa, Ontario, Canada",23,,
-890,"Philadelphia, Pennsylvania, United States",23,,
-891,"San Jose, California, United States",23,,
-892,"Sao Paulo-SP,Brazil",23,,
-893,"Schiphol, Noord-Holland, Netherlands",23,,
-894,"Shenzhen, 深圳",23,,
-895,"SK, Bratislava",23,,
-896,"Taipei, Taipei City",23,,
-897,"Tirana, AL Tirana, AL",23,,
-898,"Tranås,se",23,,
-899,"ttPlymouth, Minnesota, United Statestt",23,,
-900,United States,23,,
-901,"Weystrasse, Lucerne, Switzerland",23,,
-902,"Zuerich,Switzerland",23,,
-903,Augsburg,22,,
-904,"AU, NSW, Sydney",22,,
-905,Basel,22,,
-906,Belgrade,22,,
-907,"Bellevue, WA, US",22,,
-908,"Berlin,de, Remote",22,,
-909,"Boydton, Virginia, United States",22,,
-910,"DE, NW, Aachen",22,,
+854,"Portland, Oregon, United States",24,Portland|Oregon|United States,|US
+855,"Reston,United States of America",24,Reston|United States|America,|NL|US
+856,"San Francisco,Remote US",24,San Francisco|Remote US,|US
+857,San Jose-Costa Rica,24,San|Jose Costa Rica,|ML
+858,"Seattle, Washington, US",24,Seattle|Washington|US,|US
+859,"Shanghai, 上海",24,Shanghai|上海,|CN
+860,"Šimanovci,rs",24,Šimanovci,RS
+861,"Sunnyvale,us",24,Sunnyvale,US
+862,"ttLos Angeles, California, United Statestt",24,ttLos|Angeles|California|United Statestt,|PH|US
+863,"Wallisellen, Zürich, Switzerland",24,Wallisellen|Zürich|Switzerland,CH|
+864,Woodland,24,Woodland,US
+865,"21 Tuas South, Singapore, Singapore",23,South|Singapore|Singapore,|SG
+866,"Bangkok,th",23,Bangkok,TH
+867,"Beijing,cn",23,Beijing,CN
+868,"Birmingham,United Kingdom",23,Birmingham|United Kingdom,|GB
+869,"Bursa,tr",23,Bursa,TR
+870,"Cambridge, Massachusetts, United States",23,Cambridge|Massachusetts|United States,|GB
+871,"Cape Town,South Africa",23,Cape Town|South Africa,|ZA
+872,"Chicago, Illinois",23,Chicago|Illinois,|US
+873,"Chippenham,United Kingdom",23,Chippenham|United Kingdom,|GB
+874,"DE, NI, Cloppenburg",23,DE|NI|Cloppenburg,|DE
+875,"DE, NI, Garbsen",23,DE|NI|Garbsen,|DE
+876,Deutschland,23,Deutschland,
+877,"Elchingen,de",23,Elchingen,DE
+878,"Espoo, Finland",23,Espoo|Finland,FI|US
+879,"Frankfurt am Main,de",23,Frankfurt|Main,|DE
+880,"IL, Tel Aviv",23,Tel Aviv,IL
+881,in Hamburg,23,Hamburg,DE
+882,"Issaquah,United States of America",23,Issaquah|United States|America,|NL|US
+883,"Livermore, California",23,Livermore|California,US
+884,"Meylan,France",23,Meylan|France,|FR
+885,"Moscow, Russia",23,Moscow|Russia,RU|US
+886,"nttttttttttttnttttttttttttNorth Haven, Connecticut, United Statesnttttttttttttnttttttttttttnttttttttttt",23,Haven|Connecticut|United Statesnttttttttttttnttttttttttttnttttttttttt,|US
+887,"Oakland,us",23,Oakland,US
+888,"Oceanside,United States of America",23,Oceanside|United States|America,|NL|US
+889,"Ottawa, Ontario, Canada",23,Ottawa|Ontario|Canada,CA|US
+890,"Philadelphia, Pennsylvania, United States",23,Philadelphia|Pennsylvania|United States,|US
+891,"San Jose, California, United States",23,San Jose|California|United States,|US
+892,"Sao Paulo-SP,Brazil",23,Sao|Paulo SP|Brazil,|US
+893,"Schiphol, Noord-Holland, Netherlands",23,Schiphol|Noord Holland|Netherlands,|US
+894,"Shenzhen, 深圳",23,Shenzhen|深圳,|CN
+895,"SK, Bratislava",23,Bratislava,SK
+896,"Taipei, Taipei City",23,Taipei|Taipei City,TW
+897,"Tirana, AL Tirana, AL",23,Tirana|AL Tirana|AL,|AL
+898,"Tranås,se",23,Tranås,SE
+899,"ttPlymouth, Minnesota, United Statestt",23,ttPlymouth|Minnesota|United Statestt,
+900,United States,23,United States,
+901,"Weystrasse, Lucerne, Switzerland",23,Weystrasse|Lucerne|Switzerland,|CH
+902,"Zuerich,Switzerland",23,Zuerich|Switzerland,
+903,Augsburg,22,Augsburg,DE
+904,"AU, NSW, Sydney",22,NSW|Sydney,|AU
+905,Basel,22,Basel,CH
+906,Belgrade,22,Belgrade,RS
+907,"Bellevue, WA, US",22,Bellevue|WA|US,|US
+908,"Berlin,de, Remote",22,Berlin|Remote,|DE
+909,"Boydton, Virginia, United States",22,Boydton|Virginia|United States,|US
+910,"DE, NW, Aachen",22,DE|NW|Aachen,|DE
 911,Emsdetten,22,,
-912,"Eschborn, Hessen, Germany",22,,
+912,"Eschborn, Hessen, Germany",22,Eschborn|Hessen|Germany,|DE
 913,"Gilching,de",22,,
-914,"Hamm, Deutschland",22,,
-915,"London,United Kingdom",22,,
-916,"Macquarie Park, New South Wales, Australia",22,,
-917,Milan,22,,
-918,"Milford,United States of America",22,,
-919,Mississauga,22,,
-920,"Mühldorf (Inn), Deutschland",22,,
-921,"nttttttttttttnttttttttttttMinneapolis, Minnesota, United Statesnttttttttttttnttttttttttttnttttttttttt",22,,
-922,"Offsite, Texas, US",22,,
-923,"Petaluma, California",22,,
-924,"Pittsburgh, Pennsylvania, United States",22,,
-925,"Queretaro,Mexico",22,,
-926,"San Francisco,New York City,Seattle",22,,
-927,"Seattle, Washington, United States",22,,
-928,"Singapore, SG",22,,
-929,"Southaven,United States of America",22,,
-930,Standort flexibel,22,,
-931,"Tel Aviv, Tel Aviv, Israel",22,,
-932,"US, TX, Austin",22,,
-933,"Vancouver, BC, CA, V6B 1A9",22,,
-934,"Wetzlar,de",22,,
-935,"Ballydine, Tipperary, Ireland",21,,
-936,"Berlin, Erfurt, Frankfurt (Main), Deutschland",21,,
-937,"Burgwedel, Germany",21,,
-938,"CN, 11, Beijing",21,,
-939,"DE, NW, Bielefeld",21,,
-940,"DE, NW, Essen",21,,
-941,"Des Moines, Iowa, United States",21,,
-942,"Drancy,fr",21,,
-943,"Frankfurt am Main,Germany",21,,
-944,"Grand Prairie,United States of America",21,,
-945,"Horb am Neckar,de",21,,
-946,"Houston, Vereinigte Staaten",21,,
-947,in Frankfurt,21,,
-948,Ingolstadt,21,,
-949,"Khimki,ru",21,,
-950,"Lindau am Bodensee,Germany",21,,
-951,"Montreal, Québec, Canada",21,,
-952,"Munro,Argentina",21,,
-953,Neu-Ulm,21,,
-954,"Oslo, Norway",21,,
-955,"Remote, India",21,,
+914,"Hamm, Deutschland",22,Hamm|Deutschland,|DE
+915,"London,United Kingdom",22,London|United Kingdom,|GB
+916,"Macquarie Park, New South Wales, Australia",22,Macquarie|Park|New South Wales|Australia,|US|AU
+917,Milan,22,Milan,IT
+918,"Milford,United States of America",22,Milford|United States|America,|NL|US
+919,Mississauga,22,Mississauga,CA
+920,"Mühldorf (Inn), Deutschland",22,Mühldorf|Inn|Deutschland,|DE
+921,"nttttttttttttnttttttttttttMinneapolis, Minnesota, United Statesnttttttttttttnttttttttttttnttttttttttt",22,Minnesota|United Statesnttttttttttttnttttttttttttnttttttttttt,
+922,"Offsite, Texas, US",22,Offsite|Texas|US,|AU
+923,"Petaluma, California",22,Petaluma|California,US
+924,"Pittsburgh, Pennsylvania, United States",22,Pittsburgh|Pennsylvania|United States,|US
+925,"Queretaro,Mexico",22,Queretaro|Mexico,MX|US
+926,"San Francisco,New York City,Seattle",22,San Francisco|New York City|Seattle,US
+927,"Seattle, Washington, United States",22,Seattle|Washington|United States,|US
+928,"Singapore, SG",22,Singapore|SG,|SG
+929,"Southaven,United States of America",22,Southaven|United States|America,|NL|US
+930,Standort flexibel,22,Standort,
+931,"Tel Aviv, Tel Aviv, Israel",22,Tel Aviv|Tel Aviv|Israel,|IL
+932,"US, TX, Austin",22,US|TX|Austin,|US
+933,"Vancouver, BC, CA, V6B 1A9",22,Vancouver|BC|CA,|CA
+934,"Wetzlar,de",22,Wetzlar,DE
+935,"Ballydine, Tipperary, Ireland",21,Ballydine|Tipperary|Ireland,|IE|US
+936,"Berlin, Erfurt, Frankfurt (Main), Deutschland",21,Berlin|Erfurt|Frankfurt Main|Deutschland,|DE
+937,"Burgwedel, Germany",21,Burgwedel|Germany,|DE
+938,"CN, 11, Beijing",21,Beijing,CN
+939,"DE, NW, Bielefeld",21,DE|NW|Bielefeld,|DE
+940,"DE, NW, Essen",21,DE|NW|Essen,|DE
+941,"Des Moines, Iowa, United States",21,Moines|Iowa|United States,|US
+942,"Drancy,fr",21,Drancy,FR
+943,"Frankfurt am Main,Germany",21,Frankfurt|Main|Germany,|DE
+944,"Grand Prairie,United States of America",21,Grand|Prairie|United States|America,|FR|NL|US
+945,"Horb am Neckar,de",21,Horb|Neckar,
+946,"Houston, Vereinigte Staaten",21,Houston|Vereinigte Staaten,|US
+947,in Frankfurt,21,Frankfurt,DE
+948,Ingolstadt,21,Ingolstadt,DE
+949,"Khimki,ru",21,Khimki,RU
+950,"Lindau am Bodensee,Germany",21,Lindau|Bodensee|Germany,|DE
+951,"Montreal, Québec, Canada",21,Montreal|Québec|Canada,CA|US
+952,"Munro,Argentina",21,Munro|Argentina,|AR
+953,Neu-Ulm,21,Neu|Ulm,|DE
+954,"Oslo, Norway",21,Oslo|Norway,NO|US
+955,"Remote, India",21,Remote|India,
 956,Remote US,21,,
-957,"Roma, Lazio, Italy",21,,
-958,"Sacramento, California",21,,
-959,"San Francisco, CA, US",21,,
-960,"San Francisco,New York City",21,,
-961,Sao Paulo-Brazil,21,,
-962,"Seevetal, Deutschland",21,,
-963,"Solna,Sweden",21,,
-964,"Sunnyvale, CA +1 mehr",21,,
-965,"Tamworth, Großbritannien",21,,
-966,"Tienen,be",21,,
-967,"Tilburg, Niederlande",21,,
-968,"Tirana,Tirana",21,,
-969,US - California,21,,
-970,"US, MA, Boston",21,,
-971,"US, Virtual",21,,
-972,"Abu Dhabi, United Arab Emirates",20,,
-973,"Amsterdam, Noord-Holland, Netherlands",20,,
-974,"Babenhausen (Hesse),Germany",20,,
-975,"Basel, Switzerland",20,,
-976,Bengaluru,20,,
-977,"Bocholt,Germany",20,,
-978,"Boulder, CO",20,,
-979,"Brno,CZECH REPUBLIC",20,,
-980,"Caesarea, Hamerkaz, Israel",20,,
-981,"DE, HE, Raunheim",20,,
-982,"Denver, CO, USA",20,,
-983,"Dubai,United Arab Emirates",20,,
-984,"Ho Chi Minh, Vietnam",20,,
-985,"Huntsville, Alabama, United States",20,,
-986,"IT, Rovigo",20,,
-987,Kamenz,20,,
-988,"Kempten (Allgäu), Deutschland",20,,
-989,"Los Angeles, CA +1 mehr",20,,
-990,"Ludwigsburg, Deutschland",20,,
-991,"Lysaker, Akershus, Norway",20,,
-992,"Manila, GBS,Philippines",20,,
-993,"Midrand,South Africa",20,,
-994,"Montreal, Canada",20,,
-995,"Montreal, Quebec",20,,
-996,"Newport Beach, CA, US, 92663",20,,
-997,"Oakville ON,Canada",20,,
-998,"Offsite, North Carolina, US",20,,
-999,"Palo Alto, CA, USA",20,,
+957,"Roma, Lazio, Italy",21,Roma|Lazio|Italy,|US
+958,"Sacramento, California",21,Sacramento|California,US
+959,"San Francisco, CA, US",21,San Francisco|CA|US,|US
+960,"San Francisco,New York City",21,San Francisco|New York City,US
+961,Sao Paulo-Brazil,21,Sao|Paulo Brazil,|US
+962,"Seevetal, Deutschland",21,Seevetal|Deutschland,|DE
+963,"Solna,Sweden",21,Solna|Sweden,|US
+964,"Sunnyvale, CA +1 mehr",21,Sunnyvale,US
+965,"Tamworth, Großbritannien",21,Tamworth|Großbritannien,|AU
+966,"Tienen,be",21,Tienen,BE
+967,"Tilburg, Niederlande",21,Tilburg|Niederlande,|NL
+968,"Tirana,Tirana",21,Tirana|Tirana,AL
+969,US - California,21,US|California,|US
+970,"US, MA, Boston",21,US|MA|Boston,|US
+971,"US, Virtual",21,US|Virtual,
+972,"Abu Dhabi, United Arab Emirates",20,Abu|Dhabi|United|Arab Emirates,|US|JP
+973,"Amsterdam, Noord-Holland, Netherlands",20,Amsterdam|Noord Holland|Netherlands,|NL|US
+974,"Babenhausen (Hesse),Germany",20,Babenhausen|Hesse|Germany,|FR|DE
+975,"Basel, Switzerland",20,Basel|Switzerland,CH|
+976,Bengaluru,20,Bengaluru,IN
+977,"Bocholt,Germany",20,Bocholt|Germany,|DE
+978,"Boulder, CO",20,Boulder|CO,|US
+979,"Brno,CZECH REPUBLIC",20,Brno|CZECH,|CZ
+980,"Caesarea, Hamerkaz, Israel",20,Caesarea|Hamerkaz|Israel,|IL
+981,"DE, HE, Raunheim",20,DE|Raunheim,|DE
+982,"Denver, CO, USA",20,Denver|CO|USA,|US
+983,"Dubai,United Arab Emirates",20,Dubai|United|Arab Emirates,|AE|US
+984,"Ho Chi Minh, Vietnam",20,Vietnam,
+985,"Huntsville, Alabama, United States",20,Huntsville|Alabama|United States,|US
+986,"IT, Rovigo",20,Rovigo,IT
+987,Kamenz,20,Kamenz,DE
+988,"Kempten (Allgäu), Deutschland",20,Kempten|Allgäu|Deutschland,|DE
+989,"Los Angeles, CA +1 mehr",20,Los Angeles,US
+990,"Ludwigsburg, Deutschland",20,Ludwigsburg|Deutschland,|DE
+991,"Lysaker, Akershus, Norway",20,Lysaker|Akershus|Norway,|NO|US
+992,"Manila, GBS,Philippines",20,Manila|GBS|Philippines,|PH
+993,"Midrand,South Africa",20,Midrand|South Africa,|ZA
+994,"Montreal, Canada",20,Montreal|Canada,CA|US
+995,"Montreal, Quebec",20,Montreal|Quebec,CA
+996,"Newport Beach, CA, US, 92663",20,Newport Beach|CA|US,|US
+997,"Oakville ON,Canada",20,Oakville|Canada,CA|US
+998,"Offsite, North Carolina, US",20,Offsite|North Carolina|US,
+999,"Palo Alto, CA, USA",20,Palo Alto|CA|USA,|US
 1000,"Paris, France +1 mehr",20,,
 1001,"Pittsburgh, PA +4 mehr",20,,
 1002,"Riverside, California",20,,
