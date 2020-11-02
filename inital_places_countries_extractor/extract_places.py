@@ -13,7 +13,7 @@ worldcities = pd.read_csv('worldcities.csv').sort_values('population', ascending
 pc = {}
 
 def main():
-	for i, location in locations.head(1000).iterrows():
+	for i, location in locations.head(10).iterrows():
 		clean_location = re.sub(r"[^\w,]|_", ' ', location['location'])
 		places = get_places(clean_location)
 		countries = []
@@ -36,7 +36,7 @@ def main():
 def get_places(location):
 	try:
 		e = Extractor(text=location)
-		return e .find_entities()
+		return e.find_entities()
 	except:
 		return []
 
