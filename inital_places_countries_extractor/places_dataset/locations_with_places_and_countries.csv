@@ -34,7 +34,7 @@
 32,Beijing,349,CN
 33,"Other, Other, United States",344,US
 34,"San Francisco,us",343,US
-35,"Erlangen,Germany",338mis,DE
+35,"Erlangen,Germany",338,DE
 36,Villach,266,AT
 37,"Stuttgart, Deutschland",264,DE
 38,"Leipzig, Deutschland",263,DE
@@ -1921,7 +1921,7 @@
 1901,"Wood Green, Großbritannien",10,GB
 1902,Санкт-Петербург,10,RU
 1903,"Accra, GH Accra, GH",9,GH
-1904,"Albuquerque, New Mexico",9,MX
+1904,"Albuquerque, New Mexico",9,US
 1905,"Al-Khubar,Saudi Arabia",9,SA
 1906,Amsterdam-Netherlands,9,NL
 1907,"Anderlecht,be",9,BE
@@ -9517,7 +9517,7 @@ Temporarily Remote",1,DE
 9438,"nttttttttttttnttttttttttttNew Haven, Connecticut, United Statesnttttttttttttnttttttttttttnttttttttttt",1,US
 9439,"nttttttttttttnttttttttttttNew York, United Statesnttttttttttttnttttttttttttnttttttttttt",1,US
 9440,"nttttttttttttnttttttttttttNovosibirsk, Novosibirsk Oblast, Russian Federationnttttttttttttnttttttttttttnttttttttttt",1,RU
-9441,"nttttttttttttnttttttttttttntttttttttttttAlbuquerque, New Mexico, United States and 1 additional locationnttttttttttttnttttttttttt",1,MX
+9441,"nttttttttttttnttttttttttttntttttttttttttAlbuquerque, New Mexico, United States and 1 additional locationnttttttttttttnttttttttttt",1,US
 9442,"nttttttttttttnttttttttttttntttttttttttttAtlanta, Georgia, United States and 4 additional locationsnttttttttttttnttttttttttt",1,GE
 9443,"nttttttttttttnttttttttttttntttttttttttttBaltimore, Maryland, United States and 1 additional locationnttttttttttttnttttttttttt",1,US
 9444,"nttttttttttttnttttttttttttntttttttttttttBeijing, China and 1 additional locationnttttttttttttnttttttttttt",1,CN
@@ -10982,7 +10982,7 @@ Temporarily Remote",1,AU
 10881,"ttAbilene, Texas, United Statestt",1,US
 10882,"ttAgra, Uttar Pradesh, Indiatt",1,TH
 10883,"ttAlberta, Canadatt",1,CHECK
-10884,"ttAlbuquerque, New Mexico, United Statestt",1,MX
+10884,"ttAlbuquerque, New Mexico, United Statestt",1,US
 10885,"ttAlcala de Henares, Madrid, Madrid, Spaintt",1,DE
 10886,"ttAltoona, Pennsylvania, United Statestt",1,US
 10887,"ttAmarillo, Texas, United Statestt",1,US

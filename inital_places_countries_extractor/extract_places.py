@@ -1,81 +1,92 @@
 import re
 import json
-import string
-import geograpy
-import pycountry
+import requests
 import pandas as pd
-from geograpy.extraction import Extractor
+from collections import Counter
 
-chars = re.escape(string.punctuation)
-locations = pd.read_csv('locations.csv')
-worldcities = pd.read_csv('worldcities.csv').sort_values('population', ascending=False)
-
-pc = {}
+locations = pd.read_csv('places_dataset/locations.csv')
+geonames = pd.read_csv('places_dataset/geonames.txt', sep="	", header=None, low_memory=False)
+geonames.columns = ['geonameid', 'name', 'asciiname', 'alternatenames', 'latitude', 'longitude',
+				'feature_class', 'feature_code', 'country_code', 'cc2', 'admin1_code', 'admin2_code ', 
+				'admin3_code', 'admin4_code', 'population', 'elevation', 'dem', 'timezone', 'modification_date']
+geonames.sort_values('population', ascending=False, inplace=True)
+countrynames = requests.get("https://raw.githubusercontent.com/mledoze/countries/master/dist/countries.json").json()
 
 def main():
-	for i, location in locations.head(10).iterrows():
-		clean_location = re.sub(r"[^\w,]|_", ' ', location['location'])
-		places = get_places(clean_location)
-		countries = []
+	for i, dict_location in locations.iterrows():
+		print(dict_location['location'])
+		location = dict_location['location']
+		places = get_places(location)
+		country_map = {}
+		country_map['is_country'] = []
+		country_map['others'] = []
 		for place in places:
-			if place in pc:
-				countries.append(pc[place])
-			else:
-				country = get_country(place)
-				countries.append(country)
-				pc[place] = country
-		locations.loc[i,'places'] = "|".join(places)
-		locations.loc[i,'countries'] = "|".join(list(set(countries)))
-	locations.to_csv('locations_with_places_and_countries.csv')
-	print(json.dumps(pc, indent=4, sort_keys=True))
-
-# all_places = pd.DataFrame(list(set(all_places)), columns=['places'])
-# all_countries = pd.DataFrame(list(set(all_countries)), columns=['countries'])
-# pd.DataFrame(list(set(list_places)), columns=['places']).to_csv('all_places.csv')
+			get_country(country_map, place)
+		country = pick_country(country_map)
+		locations.loc[i,'country'] = country
+		print("\t\t\t", country)
+	locations.to_csv('places_dataset/locations_with_places_and_countries.csv')
 
 def get_places(location):
+	places = []
 	try:
-		e = Extractor(text=location)
-		return e.find_entities()
+		for i in re.split(r'[^\w ]', location):
+			temp_place = re.sub(r"[^\w,\w ]|_", ',', i.strip())
+			if temp_place:
+				places.append(temp_place)
+		if len(places) == 0:
+			places = re.split(r'[^\w]', location)
 	except:
-		return []
-
-def get_country(place):
-	print(place)
-	country = ""
-
-	# FIRST LEVEL
-	if len(worldcities[worldcities['city'] == place]) > 0:
-		country = worldcities[worldcities['city'] == place]['country'].unique()[0]
-	elif len(worldcities[worldcities['city_ascii'] == place]) > 0:
-		country = worldcities[worldcities['city_ascii'] == place]['country'].unique()[0]
-	if country:
-		if pycountry.countries.get(name=country):
-			return pycountry.countries.get(name=country).alpha_2
-		else:
-			return pycountry.countries.search_fuzzy(country)[0].alpha_2 
-
-	# SECOND LEVEL
-	if geograpy.locateCity(place):
-		return geograpy.locateCity(place).country.iso
-
-	# THIRD LEVEL
-	countries = []
-	t_country = ""
-	places = place.split(" ")
-	for temp_place in places:
-		if len(worldcities[worldcities['city'] == temp_place]) > 0:
-			t_country = worldcities[worldcities['city'] == temp_place]['country'].unique()[0]
-		elif len(worldcities[worldcities['city_ascii'] == temp_place]) > 0:
-			t_country = worldcities[worldcities['city_ascii'] == temp_place]['country'].unique()[0]
-		if t_country:
-			if pycountry.countries.get(name=t_country):
-				countries.append(pycountry.countries.get(name=t_country).alpha_2)
-			else:
-				countries.append(pycountry.countries.search_fuzzy(t_country)[0].alpha_2)
-	return '|'.join(list(set(countries)))
+		pass
+	return places
 
 
+def get_country(country_map, place):
+
+	for countryname in countrynames:
+
+		if countryname['name']['common'].lower() == place.lower():
+			country_map['is_country'].append(countryname['cca2'])
+			return
+
+		if countryname['cca2'].lower() == place.lower():
+			country_map['is_country'].append(countryname['cca2'])
+			return
+
+		for k, translation in countryname['translations'].items():
+			if translation['common'].lower() == place.lower():
+				country_map['is_country'].append(countryname['cca2'])
+				return
+
+		for spelling in countryname['altSpellings']:
+			if spelling.lower() == place.lower():
+				country_map['is_country'].append(countryname['cca2'])
+				return
+
+	place_matches = geonames[geonames['name'].str.contains(place, na=False, case=False)]
+	if not place_matches.empty:
+		country_map['others'].append(place_matches.iloc[0]['country_code'])
+		return
+
+
+	place_matches = geonames[geonames['alternatenames'].str.contains(place.capitalize(), na=False)]
+	if not place_matches.empty:
+		country_map['others'].append(place_matches.iloc[0]['country_code'])
+		return
+
+	splitted_places = re.split(r'[^\w]', place)
+	for splitted_place in splitted_places:
+		if len(splitted_places) > 1:
+			get_country(country_map, splitted_place)
+
+def pick_country(country_map):
+	if len(country_map['is_country'] + country_map['others']) == 0:
+		return "CHECK"
+	if len(country_map['is_country']) == 1:
+		return country_map['is_country'][0]
+	else:
+		temp_list = country_map['is_country'] + country_map['others']
+		return Counter(temp_list).most_common()[0][0]
 
 if __name__ == "__main__":
 	main()
