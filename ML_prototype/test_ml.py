@@ -50,10 +50,10 @@ class Model(nn.Module):
         self.embedding_dropout = nn.Dropout(p)
         self.batch_norm_num = nn.BatchNorm1d(num_numerical_cols)
 
-        all_layers = []
         num_categorical_cols = sum((nf for ni, nf in embedding_size))
         input_size = num_categorical_cols + num_numerical_cols
 
+        all_layers = []
         for i in layers:
             all_layers.append(nn.Linear(input_size, i))
             all_layers.append(nn.ReLU(inplace=True))
@@ -84,7 +84,7 @@ loss_function = nn.CrossEntropyLoss()
 optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
 
 
-epochs = 10
+epochs = 55
 aggregated_losses = []
 
 for i in range(epochs):
@@ -110,3 +110,9 @@ with torch.no_grad():
     y_val = model(categorical_test_data, numerical_test_data)
     loss = loss_function(y_val, test_outputs)
 print("Loss: " + str(loss))
+
+from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
+
+print(confusion_matrix(test_outputs,y_val))
+print(classification_report(test_outputs,y_val))
+print(accuracy_score(test_outputs, y_val))
